@@ -6,7 +6,14 @@
 
 ## 下载与安装
 
-1. 从 [Releases](https://github.com/jide315/summertime-saga-zh-cn/releases/latest) 下载发布 ZIP（含许可文件），解压后找到 **`zh_cn.rpa`**。也可从仓库根目录获取补丁与配套许可。
+| 下载入口 | 压缩包 | 提取密码 |
+|---|---|---|
+| [蓝奏云（国内下载）](https://wwbnq.lanzn.com/iEMWE4cfjjuf) | `SummertimeSaga-0.20.16-zh_CN.zip`（约 24.63 MB） | `e4zp` |
+| [GitHub Releases](https://github.com/jide315/summertime-saga-zh-cn/releases/latest) | `summertime-saga-0.20.16-zh-cn-v1.0.0.zip` | 无 |
+
+两个入口均提供 v1.0.0 补丁及配套许可；压缩包的文件名与附带文档有所不同，`zh_cn.rpa` 内容相同。国内用户可优先使用蓝奏云。
+
+1. 从上述任一入口下载 ZIP，解压后找到 **`zh_cn.rpa`**。保留随包的许可及版权说明，转载时一并附带。
 2. 退出游戏并备份存档。将旧汉化包移到游戏目录外，包括旧 `zh_cn_2.rpa` 和其他版本的 `zh_cn.rpa`。安装过散装汉化时建议使用干净游戏副本。
 3. 把 `zh_cn.rpa` 放入游戏的 **`game/`** 文件夹，与 `scripts.rpa` 等原版归档同级，保留原版文件。
 4. 启动游戏。如未显示中文，请检查路径、残留补丁及设置中的语言选项。
