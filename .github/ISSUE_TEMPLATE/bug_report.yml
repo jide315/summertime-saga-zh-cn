@@ -1,0 +1,17 @@
+name: 汉化问题
+description: 反馈错译、漏译、显示或运行错误
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: 游戏版本 / 补丁版本 / 操作系统
+      placeholder: 0.20.16 / v1.0.0 / Windows 11
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 复现步骤、实际表现与期望表现
+      description: 可附截图及清理过的报错片段，请勿上传游戏本体、存档或个人信息。
+    validations:
+      required: true

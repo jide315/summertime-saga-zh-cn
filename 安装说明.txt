@@ -1,0 +1,17 @@
+Summertime Saga 0.20.16 简体中文补丁 v1.0.0
+
+适用：Windows PC，游戏版本 0.20.16。其他版本和平台未经验证。
+1. 退出游戏并备份存档。
+2. 将旧 zh_cn.rpa、zh_cn_2.rpa 或其他汉化移到游戏目录外。
+   安装过散装汉化时建议使用干净游戏副本。
+3. 将 zh_cn.rpa 放到 game 文件夹，与原版 scripts.rpa 同级。
+4. 启动游戏，必要时检查语言设置。
+
+卸载：退出游戏，只移除 game/zh_cn.rpa，必要时切回英文。
+大小：33,438,630 字节
+SHA-256：bd1763730d20eeee88a036bdbb322689e5e46c6aabc574df369217138653e08f
+校验：Get-FileHash ./zh_cn.rpa -Algorithm SHA256
+
+这是非官方补丁，不含游戏本体，未完成完整通关测试。
+转载时保留 LICENSE、LICENSES 和 THIRD_PARTY_NOTICES.md，尤其是字体许可。
+反馈：https://github.com/jide315/summertime-saga-zh-cn/issues

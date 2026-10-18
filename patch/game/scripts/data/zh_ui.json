@@ -1,0 +1,2064 @@
+{
+ "strings": {
+  "Repair your computer.": "修理你的电脑。",
+  "Use computer": "使用电脑",
+  "Go to sleep": "去睡觉",
+  "Study": "学习",
+  "Watch TV": "看电视",
+  "Talk": "交谈",
+  "Look around": "四处看看",
+  "Leave": "离开",
+  "March 3rd, on a rainy afternoon.\nMy father's funeral. I can't believe he's really gone.\nHe died from a work related accident at the age of 40. Leaving me all alone with no family to speak of...": "3月3日，一个阴雨绵绵的下午。\n父亲的葬礼。我不敢相信他真的走了。\n他在四十岁那年死于一场工伤事故，只留下我孤零零一个人，举目无亲……",
+  "Circumstances surrounding his death have been found {i}suspicious{/i} by the police.\nThey were at our house for an entire week, bombarding me with questions to which I had no answers.\nNo {i}conclusive{/i} evidence has been found and the knowledge that my father will get no {i}justice{/i} weighs heavily upon me.": "警方认为他的死因{i}疑点重重{/i}。\n他们在我们家待了整整一周，不停问我各种问题，而我一句也答不上来。\n没有找到任何{i}确凿{/i}证据，父亲得不到{i}公道{/i}这件事，沉甸甸地压在我心头。",
+  "Luckily, my father's lifelong friend has taken me in and given me a room in her home.\nShe's a kind woman, with a big home, and only her daughter living there with her...": "所幸，父亲毕生的好友收留了我，在家里给我留了一个房间。\n她是个善良的女人，房子很大，家里只住着她和她的女儿……",
+  "The night of the funeral, I overheard her reminiscing about my father in the kitchen.\nShe eventually broke down and said she didn't know what to do.\nIt seems my father had gotten involved with some real bad people who were now pressuring her to cover his {b}debts{/b}.": "葬礼那晚，我无意中听到她在厨房里追忆父亲。\n她最终撑不住哭了起来，说自己不知该怎么办。\n看来父亲曾和一群真正的坏人搅在一起，他们现在正逼她替他还{b}债{/b}。",
+  "Now a month later, things are finally starting to settle down.\nI've gotten used to my new living arrangement and today will be my first day back at college.\nIt'll be nice to see my friends again.": "一个月过去，事情总算渐渐安定下来。\n我已适应新的住处，今天是我回大学的第一天。\n能再见到朋友们，真好。",
+  "There are {i}3 things{/i} I have to take care of before the end of the semester.\n1) - {b}I need to earn some money and help pay off my father's debts{/b}.\n2) - {b}I have to uncover the truth about my father's murder{/b}.\n3) - {b}I have to find a date for the Sorority Ball{/b}.": "这个学期结束前，我有{i}三件事{/i}要办。\n1) - {b}我得挣些钱，帮忙还清父亲的债务{/b}。\n2) - {b}我必须查明父亲被害的真相{/b}。\n3) - {b}我得为姐妹会舞会找个舞伴{/b}。",
+  "Mon": "周一",
+  "Tue": "周二",
+  "Wed": "周三",
+  "Thu": "周四",
+  "Fri": "周五",
+  "Sat": "周六",
+  "Sun": "周日",
+  "Angelica's Room": "安吉莉卡的房间",
+  "Annie's House Daycare": "安妮家的托儿所",
+  "Annie's House Front": "安妮家门前",
+  "Annie's House Livingroom": "安妮家的客厅",
+  "Annie's Locker": "安妮的储物柜",
+  "Apartments": "公寓楼",
+  "Art Classroom": "美术教室",
+  "Assembly Hall": "礼堂",
+  "Attic": "阁楼",
+  "Back Office": "后办公室",
+  "Backyard": "后院",
+  "Bank": "银行",
+  "Basement": "地下室",
+  "Basketball Court": "篮球场",
+  "Bathroom Stall": "厕所隔间",
+  "Beach": "海滩",
+  "Beach Cabin": "海滩小屋",
+  "Beach House Bedroom": "海滨别墅卧室",
+  "Beach House Entrance": "海滨别墅入口",
+  "Beach House Front": "海滨别墅门前",
+  "Beach House Kitchen": "海滨别墅厨房",
+  "Beach House Patio": "海滨别墅露台",
+  "Beach Island": "海滩小岛",
+  "Beach Showers": "海滩淋浴处",
+  "Beach Tower": "海滩瞭望塔",
+  "Beach Water": "海滩水域",
+  "Becca's Room": "贝卡的房间",
+  "Bedroom": "卧室",
+  "Boat Bridge": "船桥",
+  "Boat Cabin": "船舱",
+  "Boy's Locker Shower": "男更衣室淋浴间",
+  "Boy's Lockerroom": "男更衣室",
+  "Bushes": "灌木丛",
+  "Cafeteria": "食堂",
+  "Car Engine": "汽车引擎",
+  "Cave": "山洞",
+  "Church": "教堂",
+  "Church Cloister Bell": "教堂回廊钟",
+  "Church Confessional Left": "教堂告解室（左）",
+  "Church Confessional Right": "教堂告解室（右）",
+  "Church Front": "教堂门前",
+  "Church Graveyard": "教堂墓地",
+  "Church Stairs": "教堂台阶",
+  "Coach Bridget's Office": "布里奇特教练的办公室",
+  "Comic Store": "漫画店",
+  "Computer Lab": "电脑教室",
+  "Consumr": "消费乐",
+  "Crypt": "墓穴",
+  "Cupid": "丘比特",
+  "Cupid Dressingroom": "丘比特更衣室",
+  "Dealership": "汽车店",
+  "Dealership Garage": "汽车店车间",
+  "Dealership Lounge": "汽车店休息室",
+  "Dealership Office": "汽车店办公室",
+  "Dealership Showroom": "汽车店展厅",
+  "Depot": "车站",
+  "Dexter's Locker": "德克斯特的储物柜",
+  "Diane's Barn": "黛安的谷仓",
+  "Diane's Barn Building": "黛安的谷仓工地",
+  "Diane's Barn Garden": "黛安的谷仓花园",
+  "Diane's Barn Interior": "黛安的谷仓内部",
+  "Diane's Bedroom": "黛安的卧室",
+  "Diane's Front Yard": "黛安家的前院",
+  "Diane's Garden": "黛安的花园",
+  "Diane's Kitchen": "黛安的厨房",
+  "Diane's Lobby": "黛安家的门厅",
+  "Diane's Shed": "黛安的棚屋",
+  "Dining Room": "餐厅",
+  "Donut Shop": "甜甜圈店",
+  "Donut Shop Interior": "甜甜圈店内",
+  "Elevator": "电梯",
+  "Entrance": "入口",
+  "Erik's Aquarium": "埃里克的水族箱",
+  "Erik's Backyard": "埃里克家的后院",
+  "Erik's Basement": "埃里克家的地下室",
+  "Erik's Basement Backroom": "埃里克家地下室后间",
+  "Erik's House": "埃里克家",
+  "Erik's House Entrance": "埃里克家入口",
+  "Erik's Locker": "埃里克的储物柜",
+  "Erik's Mailbox": "埃里克的信箱",
+  "Erik's Room": "埃里克的房间",
+  "Eve's Locker": "伊芙的储物柜",
+  "First Floor": "一楼",
+  "Forest": "森林",
+  "French Classroom": "法语教室",
+  "Furnace": "锅炉房",
+  "Garage": "车库",
+  "Gym": "健身馆",
+  "Gym Front": "健身馆门前",
+  "Hallway": "走廊",
+  "Harold's House Office": "哈罗德家的办公室",
+  "Helen's Bedroom": "海伦的卧室",
+  "Helen's Locked Room": "海伦上锁的房间",
+  "Hill": "山坡",
+  "Home Front": "家门前",
+  "Hospital": "医院",
+  "Hospital 2nd Floor": "医院二楼",
+  "Hospital 2nd Floor Bathroom": "医院二楼卫生间",
+  "Hospital 2nd Floor Room": "医院二楼病房",
+  "Hospital 3rd Floor": "医院三楼",
+  "Hospital Basement": "医院地下室",
+  "Hospital Elevator": "医院电梯",
+  "Hospital Laboratory": "医院实验室",
+  "Hospital Lobby": "医院大厅",
+  "Hospital Storage Cabinet": "医院储藏柜",
+  "Hospital Storage Room": "医院储藏室",
+  "Iwanka Rump's Bedroom": "伊万卡·朗普的卧室",
+  "Judith's Locker": "朱迪思的储物柜",
+  "Kevin's Locker": "凯文的储物柜",
+  "Kitchen": "厨房",
+  "Laboratory": "实验室",
+  "Lair": "巢穴",
+  "Library": "图书馆",
+  "Library Backroom": "图书馆后间",
+  "Library Bookshelf": "图书馆书架",
+  "Library Front": "图书馆门前",
+  "Library Meeting Room": "图书馆会议室",
+  "Living Room": "客厅",
+  "Livingroom": "客厅",
+  "Loading Dock": "装卸区",
+  "Lobby": "大厅",
+  "Mailbox": "信箱",
+  "Mall": "商场",
+  "Mall Parking Lot": "商场停车场",
+  "Mall Photo Booth": "商场照相亭",
+  "Mall Second Floor": "商场二楼",
+  "Mall Toilets": "商场厕所",
+  "Mall Toilets Stall": "商场厕所隔间",
+  "Manager's Office": "经理办公室",
+  "Master Bedroom": "主卧",
+  "Mayor Rump's Backyard": "朗普市长家的后院",
+  "Mayor Rump's Bedroom": "朗普市长的卧室",
+  "Mayor Rump's Frontyard": "朗普市长家的前院",
+  "Mayor Rump's Kitchen": "朗普市长家的厨房",
+  "Mayor Rump's Lobby": "朗普市长家的门厅",
+  "Mayor Rump's Office": "朗普市长的办公室",
+  "Medic Room": "医务室",
+  "Mia's Bedroom": "米娅的卧室",
+  "Mia's House": "米娅家",
+  "Mia's House Entrance": "米娅家入口",
+  "Mia's House Upstairs": "米娅家楼上",
+  "Mia's Locker": "米娅的储物柜",
+  "Mia's Mailbox": "米娅的信箱",
+  "Movie Theatre": "电影院",
+  "Mrs Bissette's Office": "比塞特老师的办公室",
+  "Mrs Dewitt's Office": "德威特老师的办公室",
+  "Mrs Johnson's Room": "约翰逊夫人的房间",
+  "Mrs Okita's Office": "冲田老师的办公室",
+  "Mrs Ross' Office": "罗斯老师的办公室",
+  "Music Classroom": "音乐教室",
+  "NULL": "未知",
+  "Office": "办公室",
+  "Park": "公园",
+  "Park Bushes": "公园灌木丛",
+  "Park Bushes Bag": "公园灌木丛的包",
+  "Park Fountain": "公园喷泉",
+  "Pier": "码头",
+  "Pink": "粉红",
+  "Pizzeria Exterior": "披萨店外",
+  "Pizzeria Interior": "披萨店内部",
+  "Pizzeria Kitchen": "披萨店厨房",
+  "Pizzeria Storage": "披萨店储藏室",
+  "Police Basement": "警局地下室",
+  "Police Lobby": "警局大厅",
+  "Police Office": "警局办公室",
+  "Police Parking Lot": "警局停车场",
+  "Pool": "泳池",
+  "Principal Smith's Office": "史密斯校长的办公室",
+  "Recovery Room": "恢复室",
+  "Ronda's Locker": "朗达的储物柜",
+  "Roxxy's Locker": "罗克西的储物柜",
+  "School Courtyard": "学校庭院",
+  "School Frontyard": "学校前院",
+  "School Girl's Lockerroom": "学校女更衣室",
+  "School Hall": "学校走廊",
+  "School Left Hallway": "学校左侧走廊",
+  "School Locker": "学校储物柜",
+  "School Right Hallway": "学校右侧走廊",
+  "School Second Floor": "学校二楼",
+  "School Third Floor": "学校三楼",
+  "Science Classroom": "科学教室",
+  "Second Floor": "二楼",
+  "Sewer": "下水道",
+  "Shooting Range": "靶场",
+  "Shower": "淋浴间",
+  "Smith's Basement": "史密斯家地下室",
+  "Smith's Bedroom": "史密斯的卧室",
+  "Smith's Entrance": "史密斯家入口",
+  "Smith's Frontyard": "史密斯家前院",
+  "Smith's Hallway": "史密斯家走廊",
+  "Storage": "储藏室",
+  "Tattoo Parlor": "纹身店",
+  "Tattoo Parlor Alleyway": "纹身店小巷",
+  "Tattoo Parlor Apartment": "纹身店公寓",
+  "Tattoo Parlor Bathroom": "纹身店卫生间",
+  "Tattoo Parlor Bedroom": "纹身店卧室",
+  "Tattoo Parlor Fire Escape": "纹身店消防梯",
+  "Tattoo Parlor Garage": "纹身店车库",
+  "Tattoo Parlor Interior": "纹身店内部",
+  "Tattoo Parlor Roof": "纹身店屋顶",
+  "Tattoo Parlor Tent": "纹身店帐篷",
+  "Teacher's Lounge": "教师休息室",
+  "Third Floor": "三楼",
+  "Town Map": "城镇地图",
+  "Tractor": "拖拉机",
+  "Trailer": "拖车房",
+  "Trailer Bedroom": "拖车房卧室",
+  "Trailer Interior": "拖车房内部",
+  "Trailer Park": "拖车公园",
+  "Trailer Shack": "拖车公园木屋",
+  "Trailer Shack Interior": "拖车公园木屋内部",
+  "Treasure Chest": "宝箱",
+  "Treehouse": "树屋",
+  "Treehouse Interior": "树屋内部",
+  "Treehouse Ladder": "树屋梯子",
+  "Unknown": "未知",
+  "Upstairs Bedroom": "楼上卧室",
+  "Utility Closet": "杂物间",
+  "Vault": "金库",
+  "Warehouse": "仓库",
+  "Waterfall": "瀑布",
+  "Yoga Room": "瑜伽室",
+  "Monday": "星期一",
+  "Tuesday": "星期二",
+  "Wednesday": "星期三",
+  "Thursday": "星期四",
+  "Friday": "星期五",
+  "Saturday": "星期六",
+  "Sunday": "星期日",
+  "Homework": "作业",
+  "Use your desk at home to complete your homework and improve your grades!": "用家里的书桌完成作业，提高你的成绩！",
+  "Panties": "内裤",
+  "{b}[jen_name]{/b}'s used panties.": "{b}[jen_name]{/b}穿过的内裤。",
+  "Computer Parts": "电脑配件",
+  "New computer parts for sweet graphics.": "全新的电脑配件，让画面更流畅。",
+  "Swimsuit": "泳裤",
+  "A slick speedo for swimming.": "一条顺滑贴身的紧身泳裤。",
+  "Lactation and Me": "《泌乳与我》",
+  "A very \"in-depth\" guide on how to breed like a bull!": "一本“深入”讲解如何像种牛一样配种的指南！",
+  "Dictionnaire Francais": "《法语词典》",
+  "Omelet au fromage!": "奶酪煎蛋卷！",
+  "Oedipuss": "俄狄浦斯喵",
+  "Doin' it the ancient way.": "用最古老的方式干。",
+  "Quick Mafs!": "《快手算数！》",
+  "2 + 2 = 4. A special children's guide to math.": "2 + 2 = 4。一本特别的儿童数学指南。",
+  "Chola's Tricks": "《小太妹的把戏》",
+  "A comprehensive guide to eyebrow makeovers, bandanas, piercings, and putting down skank ass hoes.": "一本全面指南：修眉毛、系头巾、打穿孔，还有怎么把骚货骂趴下。",
+  "French Love": "《法式爱情》",
+  "A graphic depiction about the ways of French Love.": "一本图解法式爱情门道的画册。",
+  "Delivery Road Bike": "外卖公路自行车",
+  "The perfect way to start delivering pizza!": "开始送披萨的完美工具！",
+  "Breast Pump": "吸奶器",
+  "A cone-shaped pump meant to collect breast milk.": "一个用来收集母乳的锥形吸奶器。",
+  "Stainless Milk Jug": "不锈钢奶罐",
+  "A thermal milk jug. Keep your fresh milk nice and cool!": "一个保温奶罐。让你的鲜奶保持冰凉！",
+  "Bug Exterminator": "杀虫剂",
+  "Nothing can survive the exterminator!": "没有什么能在杀虫剂下活下来！",
+  "Bug Eradicator": "强效杀虫剂",
+  "Nothing can survive the eradicator!": "没有什么能在强效杀虫剂下活下来！",
+  "Bug Annihilator": "终极杀虫剂",
+  "Nothing can survive the annihilator!": "没有什么能在终极杀虫剂下活下来！",
+  "Fresh Milk Cartons": "新鲜牛奶盒",
+  "A delivery of fresh milk cartons!": "一批送来的新鲜牛奶！",
+  "Pink package": "粉红的包裹",
+  "A purchased item from Pink.": "在粉红买的商品。",
+  "Gas Tank": "汽油桶",
+  "A safe container for flammable fluids containing gasoline.": "一个安全盛装汽油等易燃液体的容器。",
+  "Wrench": "管钳",
+  "A metal tool used to provide grip and tighten bolts.": "用来夹紧并拧动螺栓的金属工具。",
+  "Seatrout": "海鳟",
+  "A fresh fish! A bit smelly...": "新鲜的鱼！有点腥味……",
+  "Snapper": "笛鲷",
+  "Mackerel": "鲭鱼",
+  "Cookie box": "饼干盒",
+  "A box of cookies. Everybody loves cookies.": "一盒饼干。没人不爱饼干。",
+  "Condom": "安全套",
+  "An extra, extra, extra large Hungdom condom.": "一条特大、特大、特大号的“巨根牌”安全套。",
+  "Small key": "小钥匙",
+  "A small key.": "一把小钥匙。",
+  "Shovel": "铁锹",
+  "A used metal shovel.": "一把用旧的金属铁锹。",
+  "Stool": "小凳子",
+  "A small stool.": "一张小凳子。",
+  "Fishing Rod": "鱼竿",
+  "An old fishing rod.": "一根旧鱼竿。",
+  "Diamond Ring": "钻戒",
+  "A tiny ring with a large stone fixed to it.": "一枚嵌着大颗宝石的小戒指。",
+  "Cheerleader Outfit": "啦啦队服",
+  "It's the cheerleader outfit that {b}[jen_name]{/b} used to wear during college.": "这是{b}[jen_name]{/b}上大学时穿的啦啦队服。",
+  "Awesomo": "奥斯莫",
+  "A small pug.": "一只小巴哥犬。",
+  "Worm": "蚯蚓",
+  "A fresh worm.": "一条新鲜的蚯蚓。",
+  "Glow in the Dark Buttplug": "夜光肛塞",
+  "A cone-shaped dildo for anal insertion that glows in the dark.": "一根锥形的肛门插入假阳具，会在黑暗中发光。",
+  "The Drilldo \"Fuck-Hammer\"": "电钻棒“操锤”",
+  "A power drill dildo.": "一根电钻做的假阳具。",
+  "DarthMoan": "达斯呻吟",
+  "A double bladed dildo, for double the fun!": "一根双头假阳具，双倍的乐趣！",
+  "Bad Monster": "坏怪兽",
+  "A very bad monster dildo.": "一根非常坏的怪兽假阳具。",
+  "Dual Sybian": "双人赛比安",
+  "A double dildo-mounted sybian.": "一台装有两个假阳具的赛比安椅。",
+  "The Flesh Tube": "肉管",
+  "A strange tube with soft rubber lining.": "一根内部衬着柔软橡胶的奇怪管子。",
+  "Electro Clit": "电击阴蒂",
+  "A battery-powered vibrating clit stimulator.": "电池供电的阴蒂振动刺激器。",
+  "UltraVibe 2000": "超级振动棒2000",
+  "A battery-powered vibrating dildo with ribbed lining.": "电池供电、带螺纹内衬的振动棒。",
+  "The Doom Dong": "末日肉棒",
+  "A very large, black, dildo.": "一根非常大的黑色假阳具。",
+  "Virtual Saga X": "虚拟萨迦 X",
+  "A virtual reality headset.": "一台虚拟现实头戴设备。",
+  "Sex Doll \"Dirty Harold\"": "充气娃娃“邋遢哈罗德”",
+  "A strange sex doll of a man with a moustache.": "一个留着小胡子的男人造型的古怪充气娃娃。",
+  "Pink Lingerie": "粉红内衣",
+  "A sexy women's undergarment.": "一件性感的女式内衣。",
+  "Steel Handcuffs": "钢制手铐",
+  "Sturdy metal handcuffs.": "结实的金属手铐。",
+  "Strap-On \"Crusader\"": "穿戴阳具“十字军”",
+  "A rubber dick fit to be wielded by a warrior.": "一根适合战士挥舞的橡胶鸡巴。",
+  "Drawing": "画作",
+  "A drawing from {b}Sister Angelica{/b} of the final item she requires.": "{b}安吉莉卡修女{/b}画的图，是她需要的最后一件物品。",
+  "Whip \"The Penance\"": "鞭子“苦修”",
+  "A whip to punish sinners.": "一条用来惩罚罪人的鞭子。",
+  "Aviators": "飞行员墨镜",
+  "A sweet pair of badass aviators.": "一副帅到爆的飞行员墨镜。",
+  "Lure": "鱼饵",
+  "This lure looks very familiar.": "这鱼饵看起来很眼熟。",
+  "Trading Card - Orcette - The Whoremonger": "卡牌－兽人娘－淫媒",
+  "The Fappening card for Orcette - The Whoremonger.": "兽人娘“淫媒”的撸管会卡牌。",
+  "Trading Card - Dillon": "卡牌－狄龙",
+  "The Fappening card for Dillon.": "狄龙的撸管会卡牌。",
+  "Erik's Fappening Trading Cards": "埃里克的撸管会卡牌",
+  "This box contains the Fappening cards that {b}Erik{/b} lost.": "这个盒子里装着{b}埃里克{/b}弄丢的撸管会卡牌。",
+  "Orcette": "兽人娘",
+  "ZUG! ZUG! It's an Orcette.": "祖格！祖格！是个兽人娘。",
+  "Yoga Instructions": "瑜伽教程",
+  "Is this really how yoga works?": "瑜伽真的是这么练的吗？",
+  "Kama Sutra": "《爱经》",
+  "A book about the art of sex.": "一本讲性爱艺术的书。",
+  "Birth Control Pills": "避孕药",
+  "Prevents pregnancy when taken regularly by a woman, aka the pill.": "女性按时服用可防止怀孕，俗称“那药”。",
+  "Hospital Storage Card": "医院储物间门禁卡",
+  "The access card for the hospital storage room.": "医院储物间的门禁卡。",
+  "Stolen Goods": "赃物",
+  "The goods that were stolen by a recent serial thief.": "最近那个连续盗窃犯偷走的货物。",
+  "DOH-nuts": "“哎哟”甜甜圈",
+  "Some delicious tasting holes of the finest caliber.": "几个最上等的美味小洞。",
+  "Pearl Necklace": "珍珠项链",
+  "A pearl necklace fit for a beauty.": "一条配得上美人的珍珠项链。",
+  "Towel": "毛巾",
+  "It's a towel.": "就是条毛巾。",
+  "Lotion": "润肤乳",
+  "It's a lotion used for \"massages\"!": "就是瓶用来“按摩”的润肤乳！",
+  "Cat Food": "猫粮",
+  "It's a special brand of food for cats, the best type of animal in the world!": "一个特别的猫粮牌子，猫是世上最好的动物！",
+  "Tattoo Drawing": "纹身图纸",
+  "Your drawing of a butterfly tattoo.": "你画的蝴蝶纹身。",
+  "Your drawing of a dolphin tattoo.": "你画的海豚纹身。",
+  "Your drawing of a tattoo of stars.": "你画的星星纹身。",
+  "Your drawing of a tattoo of flowers.": "你画的花卉纹身。",
+  "Your drawing of a skull tattoo.": "你画的骷髅纹身。",
+  "Your drawing of a cookie tattoo.": "你画的饼干纹身。",
+  "Helen's Secret Key": "海伦的秘密钥匙",
+  "The key secretly hidden by the statue of Virgin Mary.": "被圣母玛利亚雕像偷偷藏起来的钥匙。",
+  "Obituary Records": "讣告记录",
+  "The obituary records that contains the name of the shipwright.": "记载着那位造船匠姓名的讣告记录。",
+  "Scroll": "卷轴",
+  "A mysterious scroll you found hidden in a tree on Raven Hill.": "你在乌鸦山一棵树里发现的神秘卷轴。",
+  "Mystery Key": "神秘钥匙",
+  "A mysterious key.": "一把神秘的钥匙。",
+  "Weird Coin": "奇怪的硬币",
+  "A coin with weird engravings that you found in the park fountain.": "你在公园喷泉里找到的一枚刻着奇怪纹样的硬币。",
+  "Old Book": "旧书",
+  "An old book from the library that looks like it can decipher something.": "一本从图书馆拿的旧书，看起来能用来解读什么。",
+  "Treasure Map": "藏宝图",
+  "A treasure map acquired after solving a difficult puzzle.": "解开一个困难谜题后得到的藏宝图。",
+  "Golden Compass": "黄金罗盘",
+  "The golden compass that is said to lead you to your greatest desire.": "据说能带你找到最渴望之物的黄金罗盘。",
+  "Special Lure": "特殊鱼饵",
+  "A lure said to be able to catch anything and everything.": "据说任何东西都能钓上来的鱼饵。",
+  "Demon Spawn Tigger": "恶魔幼崽“跳跳”",
+  "Once a man's sworn enemy, but no longer will any more piggies go to the market.": "曾是某人的死对头，但再也不会有小猪被送去市场了。",
+  "Mushroom": "蘑菇",
+  "Shrooms for days bois.": "够兄弟们嗨好几天的蘑菇。",
+  "Report Card": "成绩单",
+  "My school report card.": "我的学校成绩单。",
+  "Locker Master Key": "储物柜万能钥匙",
+  "This key can open all the lockers in the school.": "这把钥匙能打开学校所有的储物柜。",
+  "Pom-poms": "啦啦队彩球",
+  "{b}Roxxy{/b}'s pom-poms retrieved from {b}Coach Bridget{/b}'s locker.": "从{b}布里奇特教练{/b}储物柜里取回的{b}罗克西{/b}的彩球。",
+  "Blueprints": "设计图",
+  "Blueprints for the Okitatron Ocular device.": "冲田机目镜装置的设计图。",
+  "Blueprints for the Okitatron Belt.": "冲田机腰带的设计图。",
+  "Glasses": "眼镜",
+  "A pair of varifocal glasses.": "一副变焦眼镜。",
+  "Labcoat": "实验白袍",
+  "Wearing this makes you look a lot smarter.": "穿上它让你看起来聪明多了。",
+  "Goggles": "护目镜",
+  "Your eyes deserve protection, make sure you wear these when conducting dangerous experiments.": "你的眼睛值得保护，做危险实验时一定要戴上。",
+  "Toad": "蟾蜍",
+  "Seems that both witches and scientists have a use for essence of toad.": "看来女巫和科学家都用得上蟾蜍精华。",
+  "Sea Dogs SAGA": "《海狗传奇》",
+  "The latest video game sensation from DarkCookie!": "黑曲奇出品的最新爆款游戏！",
+  "World of Orcette": "《兽人娘世界》",
+  "Trading Card - The Flying Cock Goblin": "卡牌－飞天鸡巴哥布林",
+  "The Fappening card for The Flying Cock Goblin.": "飞天鸡巴哥布林的撸管会卡牌。",
+  "Trading Card - Cock Crown of Thorns": "卡牌－鸡巴荆棘冠",
+  "The Fappening card for Cock Crown of Thorns.": "鸡巴荆棘冠的撸管会卡牌。",
+  "Orcette Queen Garments": "兽人娘女王服饰",
+  "The outfit befit for an Orcette Queen made from the battle scarred skin of her enemies.": "一套配得上兽人娘女王的衣物，用敌人伤痕累累的皮制成。",
+  "The Ruby Corset": "红宝石束身衣",
+  "A nice sexy lingerie set in a dashing blood red color.": "一套血红色的性感内衣。",
+  "The Milk Slave": "挤奶奴",
+  "A black-and-white-spotted bikini accompanied with bell, tail plug and ear headband.": "一套黑白斑点的比基尼，配铃铛、尾巴塞和耳朵发箍。",
+  "Mrs. Johnson's Magazine": "约翰逊夫人的杂志",
+  "Erik's Package": "埃里克的包裹",
+  "Dad's Letter": "爸爸的信",
+  "A letter written by {b}Erik{/b}'s dad for his son.": "一封{b}埃里克{/b}的爸爸写给儿子的信。",
+  "Pizza Pamphlet": "披萨传单",
+  "Newspaper": "报纸",
+  "Supersaga Digital Webcam": "超级萨迦数码摄像头",
+  "The next gen webcam with high definition!": "次世代高清摄像头！",
+  "Completed Homework": "已完成的作业",
+  "A completed homework. It needs to be returned to {b}Miss Bissette{/b}.": "一份做完的作业。得交还给{b}比塞特老师{/b}。",
+  "New Homework": "新作业",
+  "Use your desk at home to complete your new homework and improve your grades!": "用家里的书桌完成新作业，提高你的成绩！",
+  "French Grammar Volume 1": "法语语法 第一卷",
+  "The latest textbook edition on how to speak French! En Français!": "最新版法语口语教材！全法语！",
+  "French Grammar Volume 2": "法语语法 第二卷",
+  "French Grammar Volume 3": "法语语法 第三卷",
+  "Keycode to Miss Okita's office": "冲田老师办公室的密码",
+  "This is the code to {b}Miss Okita{/b}'s office. {b}6219{/b}.": "这是{b}冲田老师{/b}办公室的密码：{b}6219{/b}。",
+  "Miss Okita's blueprints": "冲田老师的图纸",
+  "{b}Miss Okita{/b}'s blueprints. I can't understand what she's working on...": "{b}冲田老师{/b}的图纸。我看不懂她在做什么……",
+  "A Master Blaster controller": "大师爆裂手柄",
+  "{b}Erik{/b}'s Master Blaster controller. It should contain a faptic engine.": "{b}埃里克{/b}的大师爆裂手柄。里面应该装着一个撸感引擎。",
+  "Faptic Engine": "撸感引擎",
+  "A faptic engine extracted from a controller.": "从手柄里拆出来的撸感引擎。",
+  "Chicken Stock": "鸡高汤",
+  "I hope chicken stock is okay. The store was sold out of vegetable stock.": "希望鸡高汤也行。店里蔬菜高汤卖光了。",
+  "Psychotropic Euphorbia": "致幻大戟",
+  "A luminescent flower.": "一朵会发光的花。",
+  "Used Tissue": "用过的纸巾",
+  "Uggh. I can't believe I'm carrying this around, it's gross.": "呃。真不敢相信我随身带着这玩意儿，太恶心了。",
+  "Eve's backpack": "伊芙的背包",
+  "{b}Eve{/b}'s lost backpack. Her art pad isn't in there though.": "{b}伊芙{/b}丢失的背包。不过她的画本不在里面。",
+  "{b}Chad{/b} wanted this drawing, better look at it now before it's all sticky.": "{b}查德{/b}想要这张画，最好趁它还没变黏之前先看看。",
+  "Art Pad": "画本",
+  "An art pad, for {b}Mia{/b}.": "一本画本，给{b}米娅{/b}的。",
+  "Flute": "长笛",
+  "A flute that is perfect for oral practice.": "一支非常适合练习“口技”的长笛。",
+  "Broken Flute": "损坏的长笛",
+  "A broken flute that has a weird smell to it.": "一支坏掉的长笛，还带着股怪味。",
+  "Drill": "电钻",
+  "A drill used for drilling things. *Wink* *Wink*": "用来钻东西的电钻。*眨眼* *眨眼*",
+  "Stick": "树枝",
+  "It's a f***ing stick. Poke it with another stick.": "就是他妈的根树枝。拿另一根树枝戳它。",
+  "Huge stack of Magazines": "一大摞杂志",
+  "A huge stack of magazines. Those porno mags sure look interesting...": "一大摞杂志。那些色情杂志看着可真有意思……",
+  "Beach House Key": "海滨别墅钥匙",
+  "The key to your very own home.": "你自己家的钥匙。",
+  "Wood Planks": "木板",
+  "A big stack of planks you found at the treehouse.": "你在树屋找到的一大摞木板。",
+  "Easels": "画架",
+  "Some handmade easels for {b}Miss Ross{/b}.": "给{b}罗斯老师{/b}做的几个手工画架。",
+  "Paint": "油漆",
+  "Just like watching paint dry.": "就跟看油漆变干一样无趣。",
+  "Fake Guitar": "假吉他",
+  "A perfect replication of a custom Fender guitar.": "一把定制芬达吉他的完美复制品。",
+  "Guitar": "吉他",
+  "A custom Fender guitar.": "一把定制芬达吉他。",
+  "Beer": "啤酒",
+  "It's liquid bread, guys.": "这就是液体面包，伙计们。",
+  "Linens": "旧布",
+  "Some old rags you can make a canvas out of.": "几块旧布，可以拿来做画布。",
+  "Sticky Tape": "强力胶带",
+  "This stuff is so strong that you wouldn't want to get yourself stuck to certain things... Or would you?": "这玩意儿粘性太强，你可不想把自己粘在某些东西上……还是说，你想？",
+  " Small stack of Magazines": "一小摞杂志",
+  "A small stack of magazines, need a couple more...": "一小摞杂志，还差几本……",
+  "Stack of Magazines": "一摞杂志",
+  "A stack of magazines, some more left, and that should be enough...": "一摞杂志，再拿几本就够了……",
+  "French Homework": "法语作业",
+  "My French homework. I should probably get that to {b}Roxxy{/b}.": "我的法语作业。我该把它交给{b}罗克西{/b}。",
+  "Dirty Uniform": "脏制服",
+  "{b}Roxxy{/b}'s dirty uniform. It smells bad.": "{b}罗克西{/b}的脏制服。闻起来很臭。",
+  "Roxxy and [firstname]'s picture": "罗克西和[firstname]的照片",
+  "{b}Roxxy{/b}'s boobs are so soft...": "{b}罗克西{/b}的奶子好软……",
+  "GoldSchwagger Vodka": "戈德施瓦格伏特加",
+  "{b}Becca{/b} seems to be very fond of that stuff, it has little golden flakes in it...": "{b}贝卡{/b}好像很喜欢这玩意儿，里面还有细小的金箔……",
+  "A small key": "一把小钥匙",
+  "A small key that was taped to the back of a painting in {b}Mrs Smith{/b}'s bedroom.": "一把小钥匙，原本用胶带贴在{b}史密斯夫人{/b}卧室一幅画的背面。",
+  "Exams": "考试卷",
+  "The finals. It is prime material to study, if you lack morals.": "期末考卷。要是你缺德，这可是绝佳的复习材料。",
+  "Sara's Bikini": "莎拉的比基尼",
+  "{b}Miss Sara{/b}'s bikini, comes in a pitch when {b}Roxxy{/b}'s just broke...": "{b}莎拉老师{/b}的比基尼，{b}罗克西{/b}的刚好坏了，正好救急……",
+  "Massage Oil": "按摩油",
+  "Some massage oil to lather someone's body...": "用来给人身上抹开的按摩油……",
+  "Hammer": "锤子",
+  "Now I can hammer all over this land.": "现在我能在这片土地上到处砸了。",
+  "Handsaw": "手锯",
+  "A saw, used to cut things with.": "一把锯子，用来锯东西。",
+  "Pregnax Pills": "孕力强药片",
+  "The experimental temporary male fertility medication.\nIncreases the likelihood of pregnancy.": "实验性临时男性生育药。\n提高怀孕几率。",
+  "Mysterious Statue (Legs)": "神秘雕像（腿部）",
+  "A mysterious statue piece that {b}Richard{/b} found when building the barn.": "{b}理查德{/b}建谷仓时发现的一块神秘雕像部件。",
+  "Mysterious Statue (Torso)": "神秘雕像（躯干）",
+  "A mysterious statue piece that {b}Clyde{/b} gave to me in exchange for a pink beaver plush.": "{b}克莱德{/b}用一块神秘雕像部件跟我换了个粉色河狸玩偶。",
+  "Mysterious Statue (Head)": "神秘雕像（头部）",
+  "A mysterious statue piece that {b}Consuela{/b} found in the beach house.": "{b}康苏埃拉{/b}在海滨别墅发现的一块神秘雕像部件。",
+  "Stuffed Doll": "毛绒玩偶",
+  "I bought this at Cupid.": "这是我在丘比特买的。",
+  "Flowers": "鲜花",
+  "Milk": "牛奶",
+  "Diane gave me this sample of her delicious milk!": "黛安给我尝的她的美味牛奶样品！",
+  "Vegetarian Pizza": "素食披萨",
+  "Daisy sure seems to enjoy these pizzas!": "黛西好像很喜欢这种披萨！",
+  "Cumdoom Pills": "禁射灵药片",
+  "The experimental temporary male sterility medication.\nPrevents the chance of pregnancy.": "实验性临时男性绝育药。\n防止怀孕。",
+  "[jen_name]'s Panties": "[jen_name]的内裤",
+  "{b}[jen_name]{/b}'s panties. {b}Master Somrak{/b} might be interested in them.": "{b}[jen_name]{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。",
+  "[deb_name]'s Panties": "[deb_name]的内裤",
+  "{b}[deb_name]{/b}'s panties. {b}Master Somrak{/b} might be interested in them.": "{b}[deb_name]{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。",
+  "Roxxy's Panties": "罗克西的内裤",
+  "{b}Roxxy{/b}'s panties. {b}Master Somrak{/b} might be interested in them.": "{b}罗克西{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。",
+  "Mia's Panties": "米娅的内裤",
+  "{b}Mia{/b}'s panties. {b}Master Somrak{/b} might be interested in them.": "{b}米娅{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。",
+  "Pink Cyclone Mask": "粉红旋风面具",
+  "A pink wrestler mask. Ideal to hide one's identity.": "一张粉色摔跤手面具。用来隐藏身份再合适不过。",
+  "Heart Necklace": "心形项链",
+  "A heart-shaped necklace fit for a tramp.": "一条心形项链，正适合骚货戴。",
+  "Crystal Necklace": "水晶项链",
+  "A crystal necklace fit for a ho.": "一条水晶项链，正适合妓女戴。",
+  "Eve's Panties": "伊芙的内裤",
+  "{b}Eve{/b}'s panties. {b}Master Somrak{/b} might be interested in them.": "{b}伊芙{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。",
+  "Grace's Panties": "格蕾丝的内裤",
+  "{b}Grace{/b}'s panties. {b}Master Somrak{/b} might be interested in them.": "{b}格蕾丝{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。",
+  "Odette's Panties": "奥黛特的内裤",
+  "{b}Odette{/b}'s panties. {b}Master Somrak{/b} might be interested in them.": "{b}奥黛特{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。",
+  "Bridget's Panties": "布里奇特的内裤",
+  "{b}Bridget{/b}'s panties. {b}Master Somrak{/b} might be interested in them.": "{b}布里奇特{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。",
+  "Lasagna": "千层面",
+  "Piping hot lasagna. It smells delicious.": "热气腾腾的千层面。闻着真香。",
+  "Candle": "蜡烛",
+  "A candle, fit for romantic evenings, picnics, and lighting the path to the fuse box.": "一支蜡烛，适合浪漫的夜晚、野餐，也适合照亮通往保险丝盒的路。",
+  "Box of Chocolates": "一盒巧克力",
+  "A box of delicious chocolates, to give to your loved ones.": "一盒美味的巧克力，送给你心爱的人。",
+  "A small delivery of fresh milk cartons!": "一小批送来的新鲜牛奶！",
+  "A huge delivery of fresh milk cartons!": "一大批送来的新鲜牛奶！",
+  "A Glass of Water": "一杯水",
+  "It's a good job that my backpack has a top-of-the-line cup-holder built-in!": "幸好我的背包自带顶级杯架！",
+  "Rump Estate Staff Badge": "朗普庄园员工证",
+  "I can't believe the mayor's wife just handed me this. So handy though!": "真不敢相信市长夫人就这么把它递给我了。不过还真方便！",
+  "Thotbot": "骚聊机器人",
+  "The cleaning solution for lonely men! With realistic genitalia!": "孤独男人的清洁方案！配有逼真生殖器！",
+  "Ink": "墨水",
+  "Tattoo inks from {b}Grace{/b}. These should work nicely in art class!": "{b}格蕾丝{/b}给的纹身墨水。用在美术课上应该正好！",
+  "ATM Card": "提款卡",
+  "The ATM card for my deposit account at Saga Financial.": "我在萨迦金融存款账户的提款卡。",
+  "Josie's Cellphone": "乔西的手机",
+  "The cellphone belonging Josephine.": "属于约瑟芬的手机。",
+  "SL-700 Crotch Rocket key": "SL-700“胯下火箭”钥匙",
+  "The ignition key to the most badass electric scooter there is!": "最牛逼的电动滑板车的点火钥匙！",
+  "Mini Vulva key": "迷你外阴钥匙",
+  "The ignition key to the only vehicle that screams to the world \"I know I'm fabulous, and you should too!\"": "唯一一辆向全世界尖叫“我知道我很棒，你也该知道”的车的点火钥匙。",
+  "Jiang's Lucky Tool Bag": "江的幸运工具包",
+  "I wonder what could be so lucky about it, if he was so distracted that he forgot to pick it up...": "真不知道它幸运在哪儿，他都能走神到把它落下……",
+  "A SAGA dealership vest": "萨迦汽车店马甲",
+  "Ladies love a man in uniform, right? Even if it screams box-store?\nWhat do you mean, \"it had sleeves\"? It's summertime, much too hot for sleeves!": "女士们就爱穿制服的男人，对吧？哪怕这制服一看就是大卖场货？\n你说什么，“它本来有袖子”？现在是夏天，穿袖子太热了！",
+  "Overcompensator key": "“过度补偿”车钥匙",
+  "The ignition key to the car that never skips leg day, and makes enough noise to make sure you never forget it.": "那辆从不跳过练腿日、还吵得让你永远忘不掉的车，就是它的点火钥匙。",
+  "Binoculars": "望远镜",
+  "A pair of binoculars, reclaimed from the box of shame.": "一副望远镜，从“羞耻箱”里拿回来的。",
+  "Rodman Trading Card": "罗德曼集换卡",
+  "A vintage pumpkin-hoop trading card from 1996!": "一张1996年的复古南瓜篮筐集换卡！",
+  "Old Photograph": "旧照片",
+  "An old picture of Dad with [jen_name]. Maybe she'd like to have it?": "一张爸爸和[jen_name]的旧照片。也许她想要？",
+  "Small Hidden Key": "藏起来的小钥匙",
+  "The key found stuck to Dad's old photograph of him and the mayor.": "这把钥匙粘在爸爸和市长的一张旧照片上。",
+  "Hidden Photograph": "藏起来的照片",
+  "A picture of Dad, the mayor and... A house-elf? I wonder what the note could mean...": "一张爸爸、市长和……一个家养小精灵的照片？不知道那备注是什么意思……",
+  "Hidden Photograph Note": "藏起的照片备注",
+  "A copy of the code I found scribbled on Dad's old photograph.\nIt seemed important to not forget when {b}Harold{/b} took the original.": "这是爸爸旧照片上潦草写着的密码的抄本。\n{b}哈罗德{/b}拿走原件时，看来这密码重要得不能忘。",
+  "Maid Uniform": "女佣制服",
+  "A staff uniform from the Rump estate. Hopefully it'll make a good disguise for {b}Iwanka{/b}.": "朗普庄园的员工制服。希望能给{b}伊万卡{/b}当个不错的伪装。",
+  "Leaf Skimmer": "捞叶网",
+  "Used for collecting leaves (and worse!) from the surface of pools and hot tubs.": "用来从泳池和热水浴缸表面捞树叶（还有更糟的东西！）。",
+  "Incriminating Evidence": "罪证",
+  "The contents of the mayor's safe. There's no way {b}Harold{/b} can't move on him with all this!": "市长保险箱里的东西。有这些，{b}哈罗德{/b}不可能动不了他！",
+  "Grocery Bags": "购物袋",
+  "{b}Maria{/b}'s grocery bags. I'm helping take them up to her apartment. Number 302.": "{b}玛丽亚{/b}的购物袋。我帮她提回她的公寓，302号。",
+  "Poem": "诗",
+  "My French poem for {b}Ms. Bissette{/b}'s class!": "我写给{b}比塞特老师{/b}那堂课的法语诗！",
+  "USB": "优盘",
+  "My trusty USB. I should be able to use the computer lab printer to print my French poem.": "我可靠的优盘。我该能用电脑室的打印机打印我的法语诗。",
+  "Scanned French Pages": "扫描的法语书页",
+  "A collection of missing pages from my French Dictionary.": "我法语词典里缺的那些页的扫描件。",
+  "Mon fromage et moi!": "我和我的奶酪！",
+  "A thrilling romp though 101 French cheeses. \"It's easy as one, two, brie!\"": "一场纵览101种法国奶酪的刺激之旅。“简单得很，一、二、布里！”",
+  "Judith's French Dictionary": "朱迪思的法语词典",
+  "An undamaged copy of the French dictionary that I borrowed from {b}Judith{/b}.": "一本完好的法语词典，是我从{b}朱迪思{/b}那儿借的。",
+  "Tony's Heist Gear": "托尼的抢劫装备",
+  "This is the bag of stuff {b}Tony{/b} asked me to fetch for the bank heist.": "这就是{b}托尼{/b}让我为抢银行准备的那包东西。",
+  "MacGuffin's Case": "麦高芬的箱子",
+  "Is it - could it be - maybe - you never know - if it's not - but then the question is - what?": "它是——难道是——也许——谁知道呢——如果不是——那问题就是——什么？",
+  "Stolen Cash": "赃款",
+  "All the money Dad stole from the Russians!": "爸爸从俄罗斯人那儿偷来的所有钱！",
+  "The Angler": "垂钓大师",
+  "Catch one of every type of fish.": "钓到每一种鱼。",
+  "Prolific cam show": "多产主播",
+  "Reach the end of [jen_name]'s story.": "完成 [jen_name] 的剧情线。",
+  "End of the chores": "家务终结",
+  "Reach the end of [deb_name]'s story.": "完成 [deb_name] 的剧情线。",
+  "Not a prude": "毫不保守",
+  "Reach the end of Mia's story.": "完成米娅的剧情线。",
+  "Milky business": "奶香生意",
+  "Reach the end of Diane's story.": "完成黛安的剧情线。",
+  "Sharing is caring": "共享即关怀",
+  "Have a three-way with Mrs. Johnson.": "与约翰逊夫人三人行。",
+  "Hoes before bros": "姐妹优先",
+  "Reach the end of June's story.": "完成琼的剧情线。",
+  "Bros before hoes": "兄弟优先",
+  "Reach the end of Erik's story.": "完成埃里克的剧情线。",
+  "Repentance": "忏悔",
+  "Reach the end of Helen's story.": "完成海伦的剧情线。",
+  "The Mermaid": "美人鱼",
+  "Reach the end of Aqua's story.": "完成阿夸的剧情线。",
+  "You're the man": "真男人",
+  "Reach the end of Roxxy's story.": "完成罗克西的剧情线。",
+  "Excellent français": "法语满分",
+  "Reach the end of Miss Bissette's story.": "完成比塞特老师的剧情线。",
+  "Music taste": "音乐品味",
+  "Reach the end of Miss Dewitt's story.": "完成德威特老师的剧情线。",
+  "Science experiments": "科学实验",
+  "Reach the end of Miss Okita's story.": "完成冲田老师的剧情线。",
+  "Painting in the nude": "人体写生",
+  "Reach the end of Miss Ross' story.": "完成罗斯老师的剧情线。",
+  "Drowning... In pussy?": "欲海沉沦",
+  "Reach the end of Cassie's story.": "完成卡西的剧情线。",
+  "Passing grade": "全科优秀",
+  "Have an A+ on every course.": "每门课都拿到 A+。",
+  "Smooth McGroove": "丝滑节奏",
+  "Don't fail at the talent show.": "才艺秀上别搞砸。",
+  "Overpowered": "属性爆表",
+  "Upgrade your stats to the max.": "把属性升到满级。",
+  "Slick mofo": "油滑老手",
+  "Finish Master Somrak's training.": "完成颂拉师傅的训练。",
+  "Cedric got nothing on you": "塞德里克哪比得上你",
+  "Finish Kevin's training.": "完成凯文的训练。",
+  "Eminem": "说唱之王",
+  "Beat Tyrone in a rap battle.": "在说唱对决中击败泰隆。",
+  "G@M3R": "骨灰玩家",
+  "Play video games!": "玩电子游戏！",
+  "Computer Genius": "电脑天才",
+  "Hack [jen_name]'s computer": "黑进 [jen_name] 的电脑。",
+  "Ass-tronomer": "屁股天文学家",
+  "Use the telescope.": "使用望远镜。",
+  "Flies that don't fly": "不会飞的苍蝇",
+  "Look at dipterae.": "观察双翅目昆虫。",
+  "Mr. Worldwide": "世界先生",
+  "Look at an accurate map of Europe.": "看一眼准确的欧洲地图。",
+  "Inception": "盗梦空间",
+  "Play Summertime Saga.": "玩《夏日传说》。",
+  "Ready for college": "为大学做好准备",
+  "Max out your savings account.": "把存款账户存到上限。",
+  "The Rooster": "公鸡",
+  "Check out [deb_name]'s art.": "看看 [deb_name] 的画作。",
+  "Home Sweet Home": "温馨的家",
+  "Purchase a house.": "买下一栋房子。",
+  "Microwaved apple": "微波苹果",
+  "Find the microwaved apple.": "找到那个微波炉加热的苹果。",
+  "Oldies Goodies": "老歌金曲",
+  "Have sex with Roz.": "跟罗兹做爱。",
+  "Yoga apprentice": "瑜伽学徒",
+  "Help out a yogi with her lesson.": "帮一位瑜伽教练上课。",
+  "What's in there?": "里面有什么？",
+  "Check out every student locker.": "查看每个学生的储物柜。",
+  "Solo pleasure": "独自快活",
+  "Go for some alone time...": "来一次独处时间……",
+  "Rump and Pump": "朗普与泵",
+  "Witness two local celebrities having fun.": "目睹两位本地名人玩得开心。",
+  "The GT500": "GT500",
+  "Get your dream car!": "拿到你的梦想之车！",
+  "Donut craving": "甜甜圈瘾",
+  "Purchase a donut for Harold.": "给哈罗德买个甜甜圈。",
+  "Game... Over?!": "游戏……结束？！",
+  "Lose the game.": "输掉游戏。",
+  "Caught!": "抓个正着！",
+  "Witness a couple going at it.": "目睹一对情侣在办事。",
+  "Zana (of the Endless)": "赞娜（无尽者）",
+  "Get stuck at the talent show.": "在才艺秀上卡住。",
+  "Treasure Hunt": "寻宝",
+  "Find the golden lure.": "找到黄金假饵。",
+  "Dialogues": "对白",
+  "How many dialogues were written by our patrons?": "我们的众筹者写了多少对白？",
+  "The Jackhammer": "电锤",
+  "Name your character \"The Jackhammer\".": "把角色命名为“电锤”。",
+  "More girl than cow": "更像姑娘而不是牛",
+  "Reach the end of Daisy's story.": "完成黛西的剧情线。",
+  "He's real!": "他真的存在！",
+  "See Santa Claus.": "见到圣诞老人。",
+  "World War III": "第三次世界大战",
+  "Triggered World War III.": "触发了第三次世界大战。",
+  "Happy Birthday!": "生日快乐！",
+  "Spent 365 days in game.": "在游戏里度过365天。",
+  "Sound investment": "稳健投资",
+  "Earned over $50,000 in interests.": "赚到超过50000美元利息。",
+  "The full Ackbar": "阿克巴的陷阱",
+  "IT'S A TRAP!!!": "这是个陷阱！！！",
+  "Eve Tat-{i}2{/i}.0": "伊芙纹身{i}2{/i}.0",
+  "Reach the end of Eve's story.": "完成伊芙的剧情线。",
+  "Long lost father": "失散多年的父亲",
+  "Invade your friend's privacy.": "侵入朋友的隐私。"
+ },
+ "rooms": {
+  "Angelica's Room": "安吉莉卡的房间",
+  "Annie's House Daycare": "安妮家的托儿所",
+  "Annie's House Front": "安妮家门前",
+  "Annie's House Livingroom": "安妮家的客厅",
+  "Annie's Locker": "安妮的储物柜",
+  "Apartments": "公寓楼",
+  "Art Classroom": "美术教室",
+  "Assembly Hall": "礼堂",
+  "Attic": "阁楼",
+  "Back Office": "后办公室",
+  "Backyard": "后院",
+  "Bank": "银行",
+  "Basement": "地下室",
+  "Basketball Court": "篮球场",
+  "Bathroom Stall": "厕所隔间",
+  "Beach": "海滩",
+  "Beach Cabin": "海滩小屋",
+  "Beach House Bedroom": "海滨别墅卧室",
+  "Beach House Entrance": "海滨别墅入口",
+  "Beach House Front": "海滨别墅门前",
+  "Beach House Kitchen": "海滨别墅厨房",
+  "Beach House Patio": "海滨别墅露台",
+  "Beach Island": "海滩小岛",
+  "Beach Showers": "海滩淋浴处",
+  "Beach Tower": "海滩瞭望塔",
+  "Beach Water": "海滩水域",
+  "Becca's Room": "贝卡的房间",
+  "Bedroom": "卧室",
+  "Boat Bridge": "船桥",
+  "Boat Cabin": "船舱",
+  "Boy's Locker Shower": "男更衣室淋浴间",
+  "Boy's Lockerroom": "男更衣室",
+  "Bushes": "灌木丛",
+  "Cafeteria": "食堂",
+  "Car Engine": "汽车引擎",
+  "Cave": "山洞",
+  "Church": "教堂",
+  "Church Cloister Bell": "教堂回廊钟",
+  "Church Confessional Left": "教堂告解室（左）",
+  "Church Confessional Right": "教堂告解室（右）",
+  "Church Front": "教堂门前",
+  "Church Graveyard": "教堂墓地",
+  "Church Stairs": "教堂台阶",
+  "Coach Bridget's Office": "布里奇特教练的办公室",
+  "Comic Store": "漫画店",
+  "Computer Lab": "电脑教室",
+  "Consumr": "消费乐",
+  "Crypt": "墓穴",
+  "Cupid": "丘比特",
+  "Cupid Dressingroom": "丘比特更衣室",
+  "Dealership": "汽车店",
+  "Dealership Garage": "汽车店车间",
+  "Dealership Lounge": "汽车店休息室",
+  "Dealership Office": "汽车店办公室",
+  "Dealership Showroom": "汽车店展厅",
+  "Depot": "车站",
+  "Dexter's Locker": "德克斯特的储物柜",
+  "Diane's Barn": "黛安的谷仓",
+  "Diane's Barn Building": "黛安的谷仓工地",
+  "Diane's Barn Garden": "黛安的谷仓花园",
+  "Diane's Barn Interior": "黛安的谷仓内部",
+  "Diane's Bedroom": "黛安的卧室",
+  "Diane's Front Yard": "黛安家的前院",
+  "Diane's Garden": "黛安的花园",
+  "Diane's Kitchen": "黛安的厨房",
+  "Diane's Lobby": "黛安家的门厅",
+  "Diane's Shed": "黛安的棚屋",
+  "Dining Room": "餐厅",
+  "Donut Shop": "甜甜圈店",
+  "Donut Shop Interior": "甜甜圈店内",
+  "Elevator": "电梯",
+  "Entrance": "入口",
+  "Erik's Aquarium": "埃里克的水族箱",
+  "Erik's Backyard": "埃里克家的后院",
+  "Erik's Basement": "埃里克家的地下室",
+  "Erik's Basement Backroom": "埃里克家地下室后间",
+  "Erik's House": "埃里克家",
+  "Erik's House Entrance": "埃里克家入口",
+  "Erik's Locker": "埃里克的储物柜",
+  "Erik's Mailbox": "埃里克的信箱",
+  "Erik's Room": "埃里克的房间",
+  "Eve's Locker": "伊芙的储物柜",
+  "First Floor": "一楼",
+  "Forest": "森林",
+  "French Classroom": "法语教室",
+  "Furnace": "锅炉房",
+  "Garage": "车库",
+  "Gym": "健身馆",
+  "Gym Front": "健身馆门前",
+  "Hallway": "走廊",
+  "Harold's House Office": "哈罗德家的办公室",
+  "Helen's Bedroom": "海伦的卧室",
+  "Helen's Locked Room": "海伦上锁的房间",
+  "Hill": "山坡",
+  "Home Front": "家门前",
+  "Hospital": "医院",
+  "Hospital 2nd Floor": "医院二楼",
+  "Hospital 2nd Floor Bathroom": "医院二楼卫生间",
+  "Hospital 2nd Floor Room": "医院二楼病房",
+  "Hospital 3rd Floor": "医院三楼",
+  "Hospital Basement": "医院地下室",
+  "Hospital Elevator": "医院电梯",
+  "Hospital Laboratory": "医院实验室",
+  "Hospital Lobby": "医院大厅",
+  "Hospital Storage Cabinet": "医院储藏柜",
+  "Hospital Storage Room": "医院储藏室",
+  "Iwanka Rump's Bedroom": "伊万卡·朗普的卧室",
+  "Judith's Locker": "朱迪思的储物柜",
+  "Kevin's Locker": "凯文的储物柜",
+  "Kitchen": "厨房",
+  "Laboratory": "实验室",
+  "Lair": "巢穴",
+  "Library": "图书馆",
+  "Library Backroom": "图书馆后间",
+  "Library Bookshelf": "图书馆书架",
+  "Library Front": "图书馆门前",
+  "Library Meeting Room": "图书馆会议室",
+  "Living Room": "客厅",
+  "Livingroom": "客厅",
+  "Loading Dock": "装卸区",
+  "Lobby": "大厅",
+  "Mailbox": "信箱",
+  "Mall": "商场",
+  "Mall Parking Lot": "商场停车场",
+  "Mall Photo Booth": "商场照相亭",
+  "Mall Second Floor": "商场二楼",
+  "Mall Toilets": "商场厕所",
+  "Mall Toilets Stall": "商场厕所隔间",
+  "Manager's Office": "经理办公室",
+  "Master Bedroom": "主卧",
+  "Mayor Rump's Backyard": "朗普市长家的后院",
+  "Mayor Rump's Bedroom": "朗普市长的卧室",
+  "Mayor Rump's Frontyard": "朗普市长家的前院",
+  "Mayor Rump's Kitchen": "朗普市长家的厨房",
+  "Mayor Rump's Lobby": "朗普市长家的门厅",
+  "Mayor Rump's Office": "朗普市长的办公室",
+  "Medic Room": "医务室",
+  "Mia's Bedroom": "米娅的卧室",
+  "Mia's House": "米娅家",
+  "Mia's House Entrance": "米娅家入口",
+  "Mia's House Upstairs": "米娅家楼上",
+  "Mia's Locker": "米娅的储物柜",
+  "Mia's Mailbox": "米娅的信箱",
+  "Movie Theatre": "电影院",
+  "Mrs Bissette's Office": "比塞特老师的办公室",
+  "Mrs Dewitt's Office": "德威特老师的办公室",
+  "Mrs Johnson's Room": "约翰逊夫人的房间",
+  "Mrs Okita's Office": "冲田老师的办公室",
+  "Mrs Ross' Office": "罗斯老师的办公室",
+  "Music Classroom": "音乐教室",
+  "NULL": "未知",
+  "Office": "办公室",
+  "Park": "公园",
+  "Park Bushes": "公园灌木丛",
+  "Park Bushes Bag": "公园灌木丛的包",
+  "Park Fountain": "公园喷泉",
+  "Pier": "码头",
+  "Pink": "粉红",
+  "Pizzeria Exterior": "披萨店外",
+  "Pizzeria Interior": "披萨店内部",
+  "Pizzeria Kitchen": "披萨店厨房",
+  "Pizzeria Storage": "披萨店储藏室",
+  "Police Basement": "警局地下室",
+  "Police Lobby": "警局大厅",
+  "Police Office": "警局办公室",
+  "Police Parking Lot": "警局停车场",
+  "Pool": "泳池",
+  "Principal Smith's Office": "史密斯校长的办公室",
+  "Recovery Room": "恢复室",
+  "Ronda's Locker": "朗达的储物柜",
+  "Roxxy's Locker": "罗克西的储物柜",
+  "School Courtyard": "学校庭院",
+  "School Frontyard": "学校前院",
+  "School Girl's Lockerroom": "学校女更衣室",
+  "School Hall": "学校走廊",
+  "School Left Hallway": "学校左侧走廊",
+  "School Locker": "学校储物柜",
+  "School Right Hallway": "学校右侧走廊",
+  "School Second Floor": "学校二楼",
+  "School Third Floor": "学校三楼",
+  "Science Classroom": "科学教室",
+  "Second Floor": "二楼",
+  "Sewer": "下水道",
+  "Shooting Range": "靶场",
+  "Shower": "淋浴间",
+  "Smith's Basement": "史密斯家地下室",
+  "Smith's Bedroom": "史密斯的卧室",
+  "Smith's Entrance": "史密斯家入口",
+  "Smith's Frontyard": "史密斯家前院",
+  "Smith's Hallway": "史密斯家走廊",
+  "Storage": "储藏室",
+  "Tattoo Parlor": "纹身店",
+  "Tattoo Parlor Alleyway": "纹身店小巷",
+  "Tattoo Parlor Apartment": "纹身店公寓",
+  "Tattoo Parlor Bathroom": "纹身店卫生间",
+  "Tattoo Parlor Bedroom": "纹身店卧室",
+  "Tattoo Parlor Fire Escape": "纹身店消防梯",
+  "Tattoo Parlor Garage": "纹身店车库",
+  "Tattoo Parlor Interior": "纹身店内部",
+  "Tattoo Parlor Roof": "纹身店屋顶",
+  "Tattoo Parlor Tent": "纹身店帐篷",
+  "Teacher's Lounge": "教师休息室",
+  "Third Floor": "三楼",
+  "Town Map": "城镇地图",
+  "Tractor": "拖拉机",
+  "Trailer": "拖车房",
+  "Trailer Bedroom": "拖车房卧室",
+  "Trailer Interior": "拖车房内部",
+  "Trailer Park": "拖车公园",
+  "Trailer Shack": "拖车公园木屋",
+  "Trailer Shack Interior": "拖车公园木屋内部",
+  "Treasure Chest": "宝箱",
+  "Treehouse": "树屋",
+  "Treehouse Interior": "树屋内部",
+  "Treehouse Ladder": "树屋梯子",
+  "Unknown": "未知",
+  "Upstairs Bedroom": "楼上卧室",
+  "Utility Closet": "杂物间",
+  "Vault": "金库",
+  "Warehouse": "仓库",
+  "Waterfall": "瀑布",
+  "Yoga Room": "瑜伽室"
+ },
+ "weekdays": {
+  "Monday": "星期一",
+  "Tuesday": "星期二",
+  "Wednesday": "星期三",
+  "Thursday": "星期四",
+  "Friday": "星期五",
+  "Saturday": "星期六",
+  "Sunday": "星期日"
+ },
+ "items": {
+  "homework": {
+   "name": "作业",
+   "description": "用家里的书桌完成作业，提高你的成绩！"
+  },
+  "panties": {
+   "name": "内裤",
+   "description": "{b}[jen_name]{/b}穿过的内裤。"
+  },
+  "parts": {
+   "name": "电脑配件",
+   "description": "全新的电脑配件，让画面更流畅。"
+  },
+  "swimsuit": {
+   "name": "泳裤",
+   "description": "一条顺滑贴身的紧身泳裤。"
+  },
+  "breeding_guide": {
+   "name": "《泌乳与我》",
+   "description": "一本“深入”讲解如何像种牛一样配种的指南！"
+  },
+  "french_dictionary": {
+   "name": "《法语词典》",
+   "description": "奶酪煎蛋卷！"
+  },
+  "oedipuss": {
+   "name": "俄狄浦斯喵",
+   "description": "用最古老的方式干。"
+  },
+  "quick_mafs": {
+   "name": "《快手算数！》",
+   "description": "2 + 2 = 4。一本特别的儿童数学指南。"
+  },
+  "cholas_tricks": {
+   "name": "《小太妹的把戏》",
+   "description": "一本全面指南：修眉毛、系头巾、打穿孔，还有怎么把骚货骂趴下。"
+  },
+  "french_love": {
+   "name": "《法式爱情》",
+   "description": "一本图解法式爱情门道的画册。"
+  },
+  "bike": {
+   "name": "外卖公路自行车",
+   "description": "开始送披萨的完美工具！"
+  },
+  "pump": {
+   "name": "吸奶器",
+   "description": "一个用来收集母乳的锥形吸奶器。"
+  },
+  "milkjug": {
+   "name": "不锈钢奶罐",
+   "description": "一个保温奶罐。让你的鲜奶保持冰凉！"
+  },
+  "exterminator": {
+   "name": "杀虫剂",
+   "description": "没有什么能在杀虫剂下活下来！"
+  },
+  "eradicator": {
+   "name": "强效杀虫剂",
+   "description": "没有什么能在强效杀虫剂下活下来！"
+  },
+  "annihilator": {
+   "name": "终极杀虫剂",
+   "description": "没有什么能在终极杀虫剂下活下来！"
+  },
+  "milk_carton": {
+   "name": "新鲜牛奶纸盒",
+   "description": "一批刚送来的新鲜牛奶纸盒！"
+  },
+  "package": {
+   "name": "粉红的包裹",
+   "description": "在粉红买的商品。"
+  },
+  "gas_can": {
+   "name": "汽油桶",
+   "description": "一个安全盛装汽油等易燃液体的容器。"
+  },
+  "wrench": {
+   "name": "管钳",
+   "description": "用来夹紧并拧动螺栓的金属工具。"
+  },
+  "seatrout": {
+   "name": "海鳟",
+   "description": "新鲜的鱼！有点腥味……"
+  },
+  "snapper": {
+   "name": "笛鲷",
+   "description": "新鲜的鱼！有点腥味……"
+  },
+  "mackerel": {
+   "name": "鲭鱼",
+   "description": "新鲜的鱼！有点腥味……"
+  },
+  "cookies": {
+   "name": "饼干盒",
+   "description": "一盒饼干。没人不爱饼干。"
+  },
+  "condom": {
+   "name": "安全套",
+   "description": "一条特大、特大、特大号的“巨根牌”安全套。"
+  },
+  "attic_key": {
+   "name": "小钥匙",
+   "description": "一把小钥匙。"
+  },
+  "shovel": {
+   "name": "铁锹",
+   "description": "一把用旧的金属铁锹。"
+  },
+  "stool": {
+   "name": "小凳子",
+   "description": "一张小凳子。"
+  },
+  "fishing_rod": {
+   "name": "鱼竿",
+   "description": "一根旧鱼竿。"
+  },
+  "ring": {
+   "name": "钻戒",
+   "description": "一枚嵌着大颗宝石的小戒指。"
+  },
+  "cheerleader_outfit": {
+   "name": "啦啦队服",
+   "description": "这是{b}[jen_name]{/b}上大学时穿的啦啦队服。"
+  },
+  "dog": {
+   "name": "奥斯莫",
+   "description": "一只小巴哥犬。"
+  },
+  "worm": {
+   "name": "蚯蚓",
+   "description": "一条新鲜的蚯蚓。"
+  },
+  "buttplug": {
+   "name": "夜光肛塞",
+   "description": "一根锥形的肛门插入假阳具，会在黑暗中发光。"
+  },
+  "drilldo": {
+   "name": "电钻棒“操锤”",
+   "description": "一根电钻做的假阳具。"
+  },
+  "darthmoan": {
+   "name": "达斯呻吟",
+   "description": "一根双头假阳具，双倍的乐趣！"
+  },
+  "badmonster": {
+   "name": "坏怪兽",
+   "description": "一根非常坏的怪兽假阳具。"
+  },
+  "sybian": {
+   "name": "双人赛比安",
+   "description": "一台装有两个假阳具的赛比安椅。"
+  },
+  "fleshtube": {
+   "name": "肉管",
+   "description": "一根内部衬着柔软橡胶的奇怪管子。"
+  },
+  "electroclit": {
+   "name": "电击阴蒂",
+   "description": "电池供电的阴蒂振动刺激器。"
+  },
+  "ultravibrato": {
+   "name": "超级振动棒2000",
+   "description": "电池供电、带螺纹内衬的振动棒。"
+  },
+  "doomdong": {
+   "name": "末日肉棒",
+   "description": "一根非常大的黑色假阳具。"
+  },
+  "virtualsaga": {
+   "name": "虚拟萨迦 X",
+   "description": "一台虚拟现实头戴设备。"
+  },
+  "sexdoll": {
+   "name": "充气娃娃“邋遢哈罗德”",
+   "description": "一个留着小胡子的男人造型的古怪充气娃娃。"
+  },
+  "lingerie": {
+   "name": "粉红内衣",
+   "description": "一件性感的女式内衣。"
+  },
+  "handcuffs": {
+   "name": "钢制手铐",
+   "description": "结实的金属手铐。"
+  },
+  "strapon": {
+   "name": "穿戴阳具“十字军”",
+   "description": "一根适合战士挥舞的橡胶鸡巴。"
+  },
+  "strapon_drawing": {
+   "name": "图纸",
+   "description": "{b}安吉莉卡修女{/b}画的图，是她需要的最后一件物品。"
+  },
+  "whip": {
+   "name": "鞭子“苦修”",
+   "description": "一条用来惩罚罪人的鞭子。"
+  },
+  "aviators": {
+   "name": "飞行员墨镜",
+   "description": "一副帅到爆的飞行员墨镜。"
+  },
+  "lure01": {
+   "name": "鱼饵",
+   "description": "这鱼饵看起来很眼熟。"
+  },
+  "card03": {
+   "name": "卡牌－兽人娘－淫媒",
+   "description": "兽人娘“淫媒”的撸管会卡牌。"
+  },
+  "card04": {
+   "name": "卡牌－狄龙",
+   "description": "狄龙的撸管会卡牌。"
+  },
+  "eriks_cards": {
+   "name": "埃里克的撸管会卡牌",
+   "description": "这个盒子里装着{b}埃里克{/b}弄丢的撸管会卡牌。"
+  },
+  "orcette": {
+   "name": "兽人娘",
+   "description": "祖格！祖格！是个兽人娘。"
+  },
+  "instructions1": {
+   "name": "瑜伽教程",
+   "description": "瑜伽真的是这么练的吗？"
+  },
+  "kamasutra": {
+   "name": "《爱经》",
+   "description": "一本讲性爱艺术的书。"
+  },
+  "birth_control_pills": {
+   "name": "避孕药",
+   "description": "女性按时服用可防止怀孕，俗称“那药”。"
+  },
+  "hospital_access_card": {
+   "name": "医院储物间门禁卡",
+   "description": "医院储物间的门禁卡。"
+  },
+  "stolen_goods": {
+   "name": "赃物",
+   "description": "最近那个连续盗窃犯偷走的货物。"
+  },
+  "donuts_fail": {
+   "name": "“哎哟”甜甜圈",
+   "description": "几个最上等的美味小洞。"
+  },
+  "donuts_correct": {
+   "name": "“哎哟”甜甜圈",
+   "description": "几个最上等的美味小洞。"
+  },
+  "pearl_necklace": {
+   "name": "珍珠项链",
+   "description": "一条配得上美人的珍珠项链。"
+  },
+  "towel": {
+   "name": "毛巾",
+   "description": "就是条毛巾。"
+  },
+  "lotion": {
+   "name": "润肤乳",
+   "description": "就是瓶用来“按摩”的润肤乳！"
+  },
+  "cat_food": {
+   "name": "猫粮",
+   "description": "一个特别的猫粮牌子，猫是世上最好的动物！"
+  },
+  "tattoo_butterfly": {
+   "name": "纹身图纸",
+   "description": "你画的蝴蝶纹身。"
+  },
+  "tattoo_dolphin": {
+   "name": "纹身图纸",
+   "description": "你画的海豚纹身。"
+  },
+  "tattoo_stars": {
+   "name": "纹身图纸",
+   "description": "你画的星星纹身。"
+  },
+  "tattoo_flowers": {
+   "name": "纹身图纸",
+   "description": "你画的花卉纹身。"
+  },
+  "tattoo_skull": {
+   "name": "纹身图纸",
+   "description": "你画的骷髅纹身。"
+  },
+  "tattoo_cookie": {
+   "name": "纹身图纸",
+   "description": "你画的饼干纹身。"
+  },
+  "key03": {
+   "name": "海伦的秘密钥匙",
+   "description": "被圣母玛利亚雕像偷偷藏起来的钥匙。"
+  },
+  "obituary_records": {
+   "name": "讣告记录",
+   "description": "记载着那位造船匠姓名的讣告记录。"
+  },
+  "scroll": {
+   "name": "卷轴",
+   "description": "你在乌鸦山一棵树里发现的神秘卷轴。"
+  },
+  "treasure_key": {
+   "name": "神秘钥匙",
+   "description": "一把神秘的钥匙。"
+  },
+  "weird_coin": {
+   "name": "奇怪的硬币",
+   "description": "你在公园喷泉里找到的一枚刻着奇怪纹样的硬币。"
+  },
+  "old_book": {
+   "name": "旧书",
+   "description": "一本从图书馆拿的旧书，看起来能用来解读什么。"
+  },
+  "treasure_map": {
+   "name": "藏宝图",
+   "description": "解开一个困难谜题后得到的藏宝图。"
+  },
+  "golden_compass": {
+   "name": "黄金罗盘",
+   "description": "据说能带你找到最渴望之物的黄金罗盘。"
+  },
+  "special_lure": {
+   "name": "特殊鱼饵",
+   "description": "据说任何东西都能钓上来的鱼饵。"
+  },
+  "tigger": {
+   "name": "恶魔幼崽“跳跳”",
+   "description": "曾是某人的死对头，但再也不会有小猪被送去市场了。"
+  },
+  "mushroom": {
+   "name": "蘑菇",
+   "description": "够兄弟们嗨好几天的蘑菇。"
+  },
+  "report_card": {
+   "name": "成绩单",
+   "description": "我的学校成绩单。"
+  },
+  "master_key": {
+   "name": "储物柜万能钥匙",
+   "description": "这把钥匙能打开学校所有的储物柜。"
+  },
+  "pompoms": {
+   "name": "啦啦队彩球",
+   "description": "从{b}布里奇特教练{/b}储物柜里取回的{b}罗克西{/b}的彩球。"
+  },
+  "blueprints_ocular": {
+   "name": "设计图",
+   "description": "冲田机目镜装置的设计图。"
+  },
+  "blueprints_belt": {
+   "name": "设计图",
+   "description": "冲田机腰带的设计图。"
+  },
+  "judith_glasses": {
+   "name": "眼镜",
+   "description": "一副变焦眼镜。"
+  },
+  "labcoat": {
+   "name": "实验白袍",
+   "description": "穿上它让你看起来聪明多了。"
+  },
+  "goggles": {
+   "name": "护目镜",
+   "description": "你的眼睛值得保护，做危险实验时一定要戴上。"
+  },
+  "toad": {
+   "name": "蟾蜍",
+   "description": "看来女巫和科学家都用得上蟾蜍精华。"
+  },
+  "game": {
+   "name": "《海狗传奇》",
+   "description": "黑曲奇出品的最新爆款游戏！"
+  },
+  "game02": {
+   "name": "《兽人娘世界》",
+   "description": "黑曲奇出品的最新爆款游戏！"
+  },
+  "card01": {
+   "name": "卡牌－飞天鸡巴哥布林",
+   "description": "飞天鸡巴哥布林的撸管会卡牌。"
+  },
+  "card02": {
+   "name": "卡牌－鸡巴荆棘冠",
+   "description": "鸡巴荆棘冠的撸管会卡牌。"
+  },
+  "orcette_cosplay": {
+   "name": "兽人娘女王服饰",
+   "description": "一套配得上兽人娘女王的衣物，用敌人伤痕累累的皮制成。"
+  },
+  "red_corset": {
+   "name": "红宝石束身衣",
+   "description": "一套血红色的性感内衣。"
+  },
+  "cow_outfit": {
+   "name": "挤奶奴",
+   "description": "一套黑白斑点的比基尼，配铃铛、尾巴塞和耳朵发箍。"
+  },
+  "m_magazine": {
+   "name": "约翰逊夫人的杂志",
+   "description": ""
+  },
+  "m_erik_package": {
+   "name": "埃里克的包裹",
+   "description": ""
+  },
+  "m_dad_letter": {
+   "name": "爸爸的信",
+   "description": "一封{b}埃里克{/b}的爸爸写给儿子的信。"
+  },
+  "m_pizza_pamphlet": {
+   "name": "披萨传单",
+   "description": ""
+  },
+  "m_newspaper": {
+   "name": "报纸",
+   "description": ""
+  },
+  "supersaga_webcam": {
+   "name": "超级萨迦数码摄像头",
+   "description": "次世代高清摄像头！"
+  },
+  "homework1": {
+   "name": "已完成的作业",
+   "description": "一份做完的作业。得交还给{b}比塞特老师{/b}。"
+  },
+  "homework2": {
+   "name": "新作业",
+   "description": "用家里的书桌完成新作业，提高你的成绩！"
+  },
+  "homework3": {
+   "name": "新作业",
+   "description": "用家里的书桌完成新作业，提高你的成绩！"
+  },
+  "textbook1": {
+   "name": "法语语法 第一卷",
+   "description": "最新版法语口语教材！全法语呈现！"
+  },
+  "textbook2": {
+   "name": "法语语法 第二卷",
+   "description": "最新版法语口语教材！全法语呈现！"
+  },
+  "textbook3": {
+   "name": "法语语法 第三卷",
+   "description": "最新版法语口语教材！全法语！"
+  },
+  "keycode_note": {
+   "name": "冲田老师办公室的密码",
+   "description": "这是{b}冲田老师{/b}办公室的密码：{b}6219{/b}。"
+  },
+  "blueprints": {
+   "name": "冲田老师的图纸",
+   "description": "{b}冲田老师{/b}的图纸。我看不懂她在做什么……"
+  },
+  "controller": {
+   "name": "大师爆裂手柄",
+   "description": "{b}埃里克{/b}的大师爆裂手柄。里面应该装着一个撸感引擎。"
+  },
+  "faptic_engine": {
+   "name": "撸感引擎",
+   "description": "从手柄里拆出来的撸感引擎。"
+  },
+  "chicken_stock": {
+   "name": "鸡高汤",
+   "description": "希望鸡高汤也行。店里蔬菜高汤卖光了。"
+  },
+  "caveflower": {
+   "name": "致幻大戟",
+   "description": "一朵会发光的花。"
+  },
+  "tissue": {
+   "name": "用过的纸巾",
+   "description": "呃。真不敢相信我随身带着这玩意儿，太恶心了。"
+  },
+  "eve_backpack": {
+   "name": "伊芙的背包",
+   "description": "{b}伊芙{/b}丢失的背包。不过她的画本不在里面。"
+  },
+  "eve_drawing": {
+   "name": "画作",
+   "description": "{b}查德{/b}想要这张画，最好趁它还没变黏之前先看看。"
+  },
+  "art_pad": {
+   "name": "画本",
+   "description": "一本画本，给{b}米娅{/b}的。"
+  },
+  "flute": {
+   "name": "长笛",
+   "description": "一支非常适合练习“口技”的长笛。"
+  },
+  "broken_flute": {
+   "name": "损坏的长笛",
+   "description": "一支坏掉的长笛，还带着股怪味。"
+  },
+  "drill": {
+   "name": "电钻",
+   "description": "用来钻东西的电钻。*眨眼* *眨眼*"
+  },
+  "stick": {
+   "name": "树枝",
+   "description": "就是他妈的根树枝。拿另一根树枝戳它。"
+  },
+  "magazines": {
+   "name": "一大摞杂志",
+   "description": "一大摞杂志。那些色情杂志看着可真有意思……"
+  },
+  "beach_house_key": {
+   "name": "海滨别墅钥匙",
+   "description": "你自己家的钥匙。"
+  },
+  "wood_pile": {
+   "name": "木板",
+   "description": "你在树屋找到的一大摞木板。"
+  },
+  "easels": {
+   "name": "画架",
+   "description": "给{b}罗斯老师{/b}做的几个手工画架。"
+  },
+  "paint": {
+   "name": "油漆",
+   "description": "就跟看油漆变干一样无趣。"
+  },
+  "fake_guitar": {
+   "name": "假吉他",
+   "description": "一把定制芬达吉他的完美复制品。"
+  },
+  "guitar": {
+   "name": "吉他",
+   "description": "一把定制芬达吉他。"
+  },
+  "beer": {
+   "name": "啤酒",
+   "description": "这就是液体面包，伙计们。"
+  },
+  "linens": {
+   "name": "旧布",
+   "description": "几块旧布，可以拿来做画布。"
+  },
+  "sticky_tape": {
+   "name": "强力胶带",
+   "description": "这玩意儿粘性太强，你可不想把自己粘在某些东西上……还是说，你想？"
+  },
+  "magazines1": {
+   "name": "一小摞杂志",
+   "description": "一小摞杂志，还差几本……"
+  },
+  "magazines2": {
+   "name": "一摞杂志",
+   "description": "一摞杂志，再拿几本就够了……"
+  },
+  "roxxy_homework": {
+   "name": "法语作业",
+   "description": "我的法语作业。我该把它交给{b}罗克西{/b}。"
+  },
+  "roxxy_uniform": {
+   "name": "脏制服",
+   "description": "{b}罗克西{/b}的脏制服。闻起来很臭。"
+  },
+  "roxxy_picture": {
+   "name": "罗克西和[firstname]的照片",
+   "description": "{b}罗克西{/b}的奶子好软……"
+  },
+  "goldschwagger": {
+   "name": "戈德施瓦格伏特加",
+   "description": "{b}贝卡{/b}好像很喜欢这玩意儿，里面还有细小的金箔……"
+  },
+  "smith_painting_key": {
+   "name": "一把小钥匙",
+   "description": "一把小钥匙，原本用胶带贴在{b}史密斯夫人{/b}卧室一幅画的背面。"
+  },
+  "smith_exams": {
+   "name": "考试卷",
+   "description": "期末考卷。要是你缺德，这可是绝佳的复习材料。"
+  },
+  "sara_bikini": {
+   "name": "莎拉的比基尼",
+   "description": "{b}莎拉老师{/b}的比基尼，{b}罗克西{/b}的刚好坏了，正好救急……"
+  },
+  "massage_oil": {
+   "name": "按摩油",
+   "description": "用来给人身上抹开的按摩油……"
+  },
+  "hammer": {
+   "name": "锤子",
+   "description": "现在我能在这片土地上到处砸了。"
+  },
+  "handsaw": {
+   "name": "手锯",
+   "description": "一把锯子，用来锯东西。"
+  },
+  "pregnax_pills": {
+   "name": "孕力强药片",
+   "description": "实验性临时男性生育药。\n提高怀孕几率。"
+  },
+  "mysterious_statue_1": {
+   "name": "神秘雕像（腿部）",
+   "description": "{b}理查德{/b}建谷仓时发现的一块神秘雕像部件。"
+  },
+  "mysterious_statue_2": {
+   "name": "神秘雕像（躯干）",
+   "description": "{b}克莱德{/b}用一块神秘雕像部件跟我换了个粉色河狸玩偶。"
+  },
+  "mysterious_statue_3": {
+   "name": "神秘雕像（头部）",
+   "description": "{b}康苏埃拉{/b}在海滨别墅发现的一块神秘雕像部件。"
+  },
+  "plush_1": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_2": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_3": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_4": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_5": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_6": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_7": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_8": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_9": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_10": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_11": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "plush_12": {
+   "name": "毛绒玩偶",
+   "description": "这是我在丘比特买的。"
+  },
+  "flower_1": {
+   "name": "鲜花",
+   "description": "这是我在丘比特买的。"
+  },
+  "flower_2": {
+   "name": "鲜花",
+   "description": "这是我在丘比特买的。"
+  },
+  "flower_3": {
+   "name": "鲜花",
+   "description": "这是我在丘比特买的。"
+  },
+  "flower_4": {
+   "name": "鲜花",
+   "description": "这是我在丘比特买的。"
+  },
+  "flower_5": {
+   "name": "鲜花",
+   "description": "这是我在丘比特买的。"
+  },
+  "flower_6": {
+   "name": "鲜花",
+   "description": "这是我在丘比特买的。"
+  },
+  "flower_7": {
+   "name": "鲜花",
+   "description": "这是我在丘比特买的。"
+  },
+  "milk_sample": {
+   "name": "牛奶",
+   "description": "黛安给我尝的她的美味牛奶样品！"
+  },
+  "veggie_pizza": {
+   "name": "素食披萨",
+   "description": "黛西好像很喜欢这种披萨！"
+  },
+  "cumdoom_pills": {
+   "name": "禁射灵药片",
+   "description": "实验性临时男性绝育药。\n防止怀孕。"
+  },
+  "jenny_panties": {
+   "name": "[jen_name]的内裤",
+   "description": "{b}[jen_name]{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。"
+  },
+  "debbie_panties": {
+   "name": "[deb_name]的内裤",
+   "description": "{b}[deb_name]{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。"
+  },
+  "roxxy_panties": {
+   "name": "罗克西的内裤",
+   "description": "{b}罗克西{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。"
+  },
+  "mia_panties": {
+   "name": "米娅的内裤",
+   "description": "{b}米娅{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。"
+  },
+  "cyclone_mask": {
+   "name": "粉红旋风面具",
+   "description": "一张粉色摔跤手面具。用来隐藏身份再合适不过。"
+  },
+  "heart_necklace": {
+   "name": "心形项链",
+   "description": "一条心形项链，正适合骚货戴。"
+  },
+  "crystal_necklace": {
+   "name": "水晶项链",
+   "description": "一条水晶项链，正适合妓女戴。"
+  },
+  "eve_panties": {
+   "name": "伊芙的内裤",
+   "description": "{b}伊芙{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。"
+  },
+  "grace_panties": {
+   "name": "格蕾丝的内裤",
+   "description": "{b}格蕾丝{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。"
+  },
+  "odette_panties": {
+   "name": "奥黛特的内裤",
+   "description": "{b}奥黛特{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。"
+  },
+  "bridget_panties": {
+   "name": "布里奇特的内裤",
+   "description": "{b}布里奇特{/b}的内裤。{b}颂拉师傅{/b}可能会感兴趣。"
+  },
+  "lasagna": {
+   "name": "千层面",
+   "description": "热气腾腾的千层面。闻着真香。"
+  },
+  "candle": {
+   "name": "蜡烛",
+   "description": "一支蜡烛，适合浪漫的夜晚、野餐，也适合照亮通往保险丝盒的路。"
+  },
+  "chocolates": {
+   "name": "一盒巧克力",
+   "description": "一盒美味的巧克力，送给你心爱的人。"
+  },
+  "milk_2x2z1y": {
+   "name": "新鲜牛奶盒",
+   "description": "一小批送来的新鲜牛奶！"
+  },
+  "milk_2x3z1y": {
+   "name": "新鲜牛奶盒",
+   "description": "一批送来的新鲜牛奶！"
+  },
+  "milk_9x9z2y": {
+   "name": "新鲜牛奶盒",
+   "description": "一大批送来的新鲜牛奶！"
+  },
+  "water_glass": {
+   "name": "一杯水",
+   "description": "幸好我的背包自带顶级杯架！"
+  },
+  "staff_badge": {
+   "name": "朗普庄园员工证",
+   "description": "真不敢相信市长夫人就这么把它递给我了。不过还真方便！"
+  },
+  "thotbot": {
+   "name": "骚聊机器人",
+   "description": "孤独男人的清洁方案！配有逼真生殖器！"
+  },
+  "ink": {
+   "name": "墨水",
+   "description": "{b}格蕾丝{/b}给的纹身墨水。用在美术课上应该正好！"
+  },
+  "atm_card": {
+   "name": "提款卡",
+   "description": "我在萨迦金融存款账户的提款卡。"
+  },
+  "josie_phone": {
+   "name": "乔西的手机",
+   "description": "属于约瑟芬的手机。"
+  },
+  "scooter_key": {
+   "name": "SL-700“胯下火箭”钥匙",
+   "description": "最牛逼的电动滑板车的点火钥匙！"
+  },
+  "compact_key": {
+   "name": "迷你外阴钥匙",
+   "description": "唯一一辆向全世界尖叫“我知道我很棒，你也该知道”的车的点火钥匙。"
+  },
+  "toolbag": {
+   "name": "江的幸运工具包",
+   "description": "真不知道它幸运在哪儿，他都能走神到把它落下……"
+  },
+  "vest": {
+   "name": "萨迦汽车店马甲",
+   "description": "女士们就爱穿制服的男人，对吧？哪怕这制服一看就是大卖场货？\n你说什么，“它本来有袖子”？现在是夏天，穿袖子太热了！"
+  },
+  "coupe_key": {
+   "name": "“过度补偿”车钥匙",
+   "description": "那辆从不跳过练腿日、还吵得让你永远忘不掉的车，就是它的点火钥匙。"
+  },
+  "binoculars": {
+   "name": "望远镜",
+   "description": "一副望远镜，从“羞耻箱”里拿回来的。"
+  },
+  "card06": {
+   "name": "罗德曼集换卡",
+   "description": "一张1996年的复古南瓜篮筐集换卡！"
+  },
+  "picture2": {
+   "name": "旧照片",
+   "description": "一张爸爸和[jen_name]的旧照片。也许她想要？"
+  },
+  "safe_deposit_key": {
+   "name": "藏起来的小钥匙",
+   "description": "这把钥匙粘在爸爸和市长的一张旧照片上。"
+  },
+  "picture4": {
+   "name": "藏起来的照片",
+   "description": "一张爸爸、市长和……一个家养小精灵的照片？不知道那备注是什么意思……"
+  },
+  "picture4_alt": {
+   "name": "藏起的照片备注",
+   "description": "这是爸爸旧照片上潦草写着的密码的抄本。\n{b}哈罗德{/b}拿走原件时，看来这密码重要得不能忘。"
+  },
+  "maid_uniform": {
+   "name": "女佣制服",
+   "description": "朗普庄园的员工制服。希望能给{b}伊万卡{/b}当个不错的伪装。"
+  },
+  "leaf_skimmer": {
+   "name": "捞叶网",
+   "description": "用来从泳池和热水浴缸表面捞树叶（还有更糟的东西！）。"
+  },
+  "evidence": {
+   "name": "罪证",
+   "description": "市长保险箱里的东西。有这些，{b}哈罗德{/b}不可能动不了他！"
+  },
+  "grocery_bags": {
+   "name": "购物袋",
+   "description": "{b}玛丽亚{/b}的购物袋。我帮她提回她的公寓，302号。"
+  },
+  "poem": {
+   "name": "诗",
+   "description": "我写给{b}比塞特老师{/b}那堂课的法语诗！"
+  },
+  "usb": {
+   "name": "优盘",
+   "description": "我可靠的优盘。我该能用电脑室的打印机打印我的法语诗。"
+  },
+  "french_scans": {
+   "name": "扫描的法语书页",
+   "description": "我法语词典里缺的那些页的扫描件。"
+  },
+  "cheese_book": {
+   "name": "我和我的奶酪！",
+   "description": "一场纵览101种法国奶酪的刺激之旅。“简单得很，一、二、布里！”"
+  },
+  "judith_dictionary": {
+   "name": "朱迪思的法语词典",
+   "description": "一本完好的法语词典，是我从{b}朱迪思{/b}那儿借的。"
+  },
+  "duffel": {
+   "name": "托尼的抢劫装备",
+   "description": "这就是{b}托尼{/b}让我为抢银行准备的那包东西。"
+  },
+  "case": {
+   "name": "麦高芬的箱子",
+   "description": "它是——难道是——也许——谁知道呢——如果不是——那问题就是——什么？"
+  },
+  "money_bag": {
+   "name": "赃款",
+   "description": "爸爸从俄罗斯人那儿偷来的所有钱！"
+  }
+ },
+ "achievements": {
+  "angler": {
+   "name": "垂钓大师",
+   "description": "钓到每一种鱼。"
+  },
+  "prolific-camshow": {
+   "name": "多产主播",
+   "description": "完成 [jen_name] 的剧情线。"
+  },
+  "end-of-chores": {
+   "name": "家务终结",
+   "description": "完成 [deb_name] 的剧情线。"
+  },
+  "not-a-prude": {
+   "name": "毫不保守",
+   "description": "完成米娅的剧情线。"
+  },
+  "milky-business": {
+   "name": "奶香生意",
+   "description": "完成黛安的剧情线。"
+  },
+  "sharing-is-caring": {
+   "name": "共享即关怀",
+   "description": "与约翰逊夫人三人行。"
+  },
+  "hoes-before-bros": {
+   "name": "姐妹优先",
+   "description": "完成琼的剧情线。"
+  },
+  "bros-before-hoes": {
+   "name": "兄弟优先",
+   "description": "完成埃里克的剧情线。"
+  },
+  "repentance": {
+   "name": "忏悔",
+   "description": "完成海伦的剧情线。"
+  },
+  "mermaid": {
+   "name": "美人鱼",
+   "description": "完成阿夸的剧情线。"
+  },
+  "the-man": {
+   "name": "真男人",
+   "description": "完成罗克西的剧情线。"
+  },
+  "excellent-francais": {
+   "name": "法语满分",
+   "description": "完成比塞特老师的剧情线。"
+  },
+  "music-taste": {
+   "name": "音乐品味",
+   "description": "完成德威特老师的剧情线。"
+  },
+  "science-experiments": {
+   "name": "科学实验",
+   "description": "完成冲田老师的剧情线。"
+  },
+  "painting-nude": {
+   "name": "人体写生",
+   "description": "完成罗斯老师的剧情线。"
+  },
+  "drowning-in-pussy": {
+   "name": "欲海沉沦",
+   "description": "完成卡西的剧情线。"
+  },
+  "passing-grade": {
+   "name": "全科优秀",
+   "description": "每门课都拿到 A+。"
+  },
+  "smooth-mcgroove": {
+   "name": "丝滑节奏",
+   "description": "才艺秀上别搞砸。"
+  },
+  "overpowered": {
+   "name": "属性爆表",
+   "description": "把属性升到满级。"
+  },
+  "slick-mofo": {
+   "name": "油滑老手",
+   "description": "完成颂拉师傅的训练。"
+  },
+  "cedric-got-nothing": {
+   "name": "塞德里克哪比得上你",
+   "description": "完成凯文的训练。"
+  },
+  "eminem": {
+   "name": "说唱之王",
+   "description": "在说唱对决中击败泰隆。"
+  },
+  "gamer": {
+   "name": "骨灰玩家",
+   "description": "玩电子游戏！"
+  },
+  "computer-genius": {
+   "name": "电脑天才",
+   "description": "黑进 [jen_name] 的电脑。"
+  },
+  "asstronomer": {
+   "name": "屁股天文学家",
+   "description": "使用望远镜。"
+  },
+  "flies": {
+   "name": "不会飞的苍蝇",
+   "description": "观察双翅目昆虫。"
+  },
+  "europe": {
+   "name": "世界先生",
+   "description": "看一眼准确的欧洲地图。"
+  },
+  "inception": {
+   "name": "盗梦空间",
+   "description": "玩《夏日传说》。"
+  },
+  "ready-for-college": {
+   "name": "为大学做好准备",
+   "description": "把存款账户存到上限。"
+  },
+  "rooster": {
+   "name": "公鸡",
+   "description": "看看 [deb_name] 的画作。"
+  },
+  "home-sweet-home": {
+   "name": "温馨的家",
+   "description": "买下一栋房子。"
+  },
+  "apple": {
+   "name": "微波苹果",
+   "description": "找到那个微波炉加热的苹果。"
+  },
+  "oldies-goodies": {
+   "name": "老歌金曲",
+   "description": "跟罗兹做爱。"
+  },
+  "yoga-apprentice": {
+   "name": "瑜伽学徒",
+   "description": "帮一位瑜伽教练上课。"
+  },
+  "whats-in-there": {
+   "name": "里面有什么？",
+   "description": "查看每个学生的储物柜。"
+  },
+  "solo-pleasure": {
+   "name": "独自快活",
+   "description": "来一次独处时间……"
+  },
+  "rump-n-pump": {
+   "name": "朗普与泵",
+   "description": "目睹两位本地名人玩得开心。"
+  },
+  "gt500": {
+   "name": "GT500",
+   "description": "拿到你的梦想之车！"
+  },
+  "donuts": {
+   "name": "甜甜圈瘾",
+   "description": "给哈罗德买个甜甜圈。"
+  },
+  "game-over": {
+   "name": "游戏……结束？！",
+   "description": "输掉游戏。"
+  },
+  "caught": {
+   "name": "抓个正着！",
+   "description": "目睹一对情侣在办事。"
+  },
+  "zana": {
+   "name": "赞娜（无尽者）",
+   "description": "在才艺秀上卡住。"
+  },
+  "treasure-hunt": {
+   "name": "寻宝",
+   "description": "找到黄金假饵。"
+  },
+  "dialogues": {
+   "name": "对白",
+   "description": "我们的众筹者写了多少对白？"
+  },
+  "the-jackhammer": {
+   "name": "电锤",
+   "description": "把角色命名为“电锤”。"
+  },
+  "more-girl-than-cow": {
+   "name": "更像姑娘而不是牛",
+   "description": "完成黛西的剧情线。"
+  },
+  "hes-real": {
+   "name": "他真的存在！",
+   "description": "见到圣诞老人。"
+  },
+  "world-war-3": {
+   "name": "第三次世界大战",
+   "description": "触发了第三次世界大战。"
+  },
+  "happy-birthday": {
+   "name": "生日快乐！",
+   "description": "在游戏里度过365天。"
+  },
+  "sound-investment": {
+   "name": "稳健投资",
+   "description": "赚到超过50000美元利息。"
+  },
+  "full-ackbar": {
+   "name": "阿克巴的陷阱",
+   "description": "这是个陷阱！！！"
+  },
+  "eve-tat-too-point-oh": {
+   "name": "伊芙纹身{i}2{/i}.0",
+   "description": "完成伊芙的剧情线。"
+  },
+  "long-lost-father": {
+   "name": "失散多年的父亲",
+   "description": "侵入朋友的隐私。"
+  }
+ }
+}

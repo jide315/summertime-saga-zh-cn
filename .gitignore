@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.rpyc
+.build/
+dist/
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.dpapi
+github-connection.*
+saves/

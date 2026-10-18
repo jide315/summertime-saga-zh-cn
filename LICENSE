@@ -1,0 +1,25 @@
+This repository contains components under separate licenses.
+Copyright (c) 2026 jide315 and contributors, for original contributions only.
+
+1. Original Chinese translation contributions and documentation:
+   Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0).
+   Full terms: LICENSES/CC-BY-SA-4.0.txt
+   Attribution: jide315 / summertime-saga-zh-cn contributors
+   Project: https://github.com/jide315/summertime-saga-zh-cn
+   Embedded original game text and third-party material are excluded.
+
+2. Original code in tools/ and original Python/Ren'Py localization code in
+   patch/game/: MIT, full terms in LICENSES/MIT.txt. Translated content strings
+   remain under item 1; upstream code, if any, retains its own rights.
+
+3. patch/game/fonts/NotoSansSC-VF.ttf: SIL Open Font License 1.1.
+   Full terms and copyright: LICENSES/OFL-1.1.txt.
+
+4. Original game text, characters, trademarks and game-derived UI artwork,
+   including patch/game/images/, are not relicensed by this project.
+   Rights remain with Kompas Productions and/or the respective rights holders.
+   No additional permission to those underlying works is granted here.
+
+zh_cn.rpa is a bundle of these components, not a single-license work.
+Redistribute it with this notice and the accompanying license texts.
+See THIRD_PARTY_NOTICES.md for scope, sources and acknowledgements.

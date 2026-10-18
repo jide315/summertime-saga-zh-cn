@@ -1,0 +1,1821 @@
+{
+  "archive": "zh_cn.rpa",
+  "sha256": "bd1763730d20eeee88a036bdbb322689e5e46c6aabc574df369217138653e08f",
+  "members": [
+    {
+      "path": "fonts/NotoSansSC-VF.ttf",
+      "size": 17773244,
+      "sha256": "763146584cf0710223441356b4395e279021b0806c196614377a7a0174ae074a"
+    },
+    {
+      "path": "images/boxes/atm01_option_01.png",
+      "size": 7218,
+      "sha256": "5f36c255d3b72da6e977a18b6edaf31465b7e95e1f76c8415953c916a5c93cc7"
+    },
+    {
+      "path": "images/boxes/auto_option_01.png",
+      "size": 4419,
+      "sha256": "c691837327bb1b637888e55e3257a5219a99a7cb62fa9cff01dd813718a4bcde"
+    },
+    {
+      "path": "images/boxes/auto_option_02.png",
+      "size": 4712,
+      "sha256": "6a41cb72bef8743afb22736702e6130d825da44622dbfd4fbf3c55f177f5dff6"
+    },
+    {
+      "path": "images/boxes/auto_option_03.png",
+      "size": 4455,
+      "sha256": "90883817114afa2a4e6b19127e75fde16d522f74a251353fd058539e3e7de4f4"
+    },
+    {
+      "path": "images/boxes/auto_option_04.png",
+      "size": 4725,
+      "sha256": "d85f2c339dbc50a5d5465de6ce54304e4f755e6ff977140745d72822d4ebb964"
+    },
+    {
+      "path": "images/boxes/auto_option_05.png",
+      "size": 5172,
+      "sha256": "16abd40380b35b691c7dd0b2ec36940c76982d66dc8c4ba337ef12fc9c223847"
+    },
+    {
+      "path": "images/boxes/auto_option_07.png",
+      "size": 4115,
+      "sha256": "2d853061095b408792a553bc955ca7399ff6cb594b88418ab95b2661dfc11c03"
+    },
+    {
+      "path": "images/boxes/auto_option_08.png",
+      "size": 4195,
+      "sha256": "942ab140fd4198e49db9fcf961a7eb90074a6d8df3e23c321b26c9fffccc047e"
+    },
+    {
+      "path": "images/boxes/auto_option_10.png",
+      "size": 4508,
+      "sha256": "f257d40b7c05607062ecf3cc491f1ee7263daba52302914ba352729577e797ec"
+    },
+    {
+      "path": "images/boxes/auto_option_12.png",
+      "size": 4404,
+      "sha256": "324a735b2ce9a22c21d05ff12a3ebbea5cdb3a0dd334dc476e91d7a8c616beeb"
+    },
+    {
+      "path": "images/boxes/auto_option_13.png",
+      "size": 3521,
+      "sha256": "5fc2620657538c76de658738a0ebc641f1d5465f5261f7db8fbe1b9023b67a74"
+    },
+    {
+      "path": "images/boxes/auto_option_generic_01.png",
+      "size": 3633,
+      "sha256": "6b767cd6ff7ced060932f0768e3e09eb26ef0fb3ba76ac06ccaa97097ed937b8"
+    },
+    {
+      "path": "images/boxes/auto_option_generic_02.png",
+      "size": 3625,
+      "sha256": "fae86ae33ef1bedb5b9bf8d39b8998e9e3cf51c12b825b924710873332780ab3"
+    },
+    {
+      "path": "images/boxes/bed01_option_01.png",
+      "size": 6336,
+      "sha256": "ca91782c9e4a9a3239e12ec3987c3c3716370ab7a9d7d006b9ef8d2f6cb8b218"
+    },
+    {
+      "path": "images/boxes/bed01_option_02.png",
+      "size": 5177,
+      "sha256": "b96c4f71f1685c5e9031a26f4c1ca3c29d7810c7bcd2f330c4ae00df986ded55"
+    },
+    {
+      "path": "images/boxes/bed02_option_01.png",
+      "size": 8369,
+      "sha256": "93d764758e85da73537ea90133ac01aa822f271c1fa77f4043295010b026140e"
+    },
+    {
+      "path": "images/boxes/bedtable01_option_01.png",
+      "size": 6112,
+      "sha256": "a466c927767382ac3c39171f77117ac6ef5550c57424428b5dad3dbdddbf15cb"
+    },
+    {
+      "path": "images/boxes/bench03_option_01.png",
+      "size": 7522,
+      "sha256": "47b90287259237e03056f22c09334f08b62fd52c648cf02802d8ec6c062b21c5"
+    },
+    {
+      "path": "images/boxes/board_option_01.png",
+      "size": 6921,
+      "sha256": "72d1db89bb293d4186924295243d423ee46cdab23b1f92391dbaab51f69fb8f3"
+    },
+    {
+      "path": "images/boxes/cabinet01_option_01.png",
+      "size": 5543,
+      "sha256": "b770a737cdfd8df2abe757d4d49f60996add38f49556120e846960f655cd2b13"
+    },
+    {
+      "path": "images/boxes/desk01_option_03.png",
+      "size": 7446,
+      "sha256": "d507ee673eb913f8fb7a9074491f47ae68ed300c02689a314a0b7f765b7d5cf8"
+    },
+    {
+      "path": "images/boxes/desk02_option_01.png",
+      "size": 6067,
+      "sha256": "b2d9dfedb76c7b65c661a8d4e9dbe78053b51a0b26fda17bc258c6eadbb58418"
+    },
+    {
+      "path": "images/boxes/desk03_option_01.png",
+      "size": 6162,
+      "sha256": "61560f1e50360108aa978dfc9c540570bd7e5610d20b2081cb0d1a64246f9089"
+    },
+    {
+      "path": "images/boxes/desk04_option_01.png",
+      "size": 5254,
+      "sha256": "8a4b0d45c8331e27744ff3105a584e20bbaae39f29111469d5ae7094316c984b"
+    },
+    {
+      "path": "images/boxes/desk05_option_01.png",
+      "size": 7444,
+      "sha256": "de02a2a63367a4a06ff1d0ab4bb93632b93b830455c7fc6f933ca8780f81d66e"
+    },
+    {
+      "path": "images/boxes/desk06_option_01.png",
+      "size": 7022,
+      "sha256": "c3eec053d69bf0f11d69353c457162679ce61714b520467aae8dd9f5b70a054f"
+    },
+    {
+      "path": "images/boxes/desk07_option_01.png",
+      "size": 5542,
+      "sha256": "0a6c337804b34291832f3ee8f6ab1a8ae7af5821d6b86ebc76d392b55c87ac9c"
+    },
+    {
+      "path": "images/boxes/diving_option_01.png",
+      "size": 6370,
+      "sha256": "9a95d63276e5ac0da52f31d1941de785b1b78d45ecb3cb707acfe004c8df71e6"
+    },
+    {
+      "path": "images/boxes/door07_option_01.png",
+      "size": 6052,
+      "sha256": "e5dd444e22564505f6216e7e9fe5936f0167303e2ef3bc28364fee00390a458d"
+    },
+    {
+      "path": "images/boxes/door11_option_01.png",
+      "size": 4455,
+      "sha256": "b63a5d34087dad02adae5f79bf0fe8e4ca1ff77d84cb37db9bedf498e03c3c06"
+    },
+    {
+      "path": "images/boxes/door19_option_01.png",
+      "size": 4802,
+      "sha256": "231415dedf65904ba397d8fcd0ca355f5a6a0a5eadd656032af4662c5395a134"
+    },
+    {
+      "path": "images/boxes/door32_option_01.png",
+      "size": 4944,
+      "sha256": "796e81795113d7b3f967779ab2e16092d18e42242a4b7e77138ef04b804a2f5b"
+    },
+    {
+      "path": "images/boxes/garden_option_01.png",
+      "size": 5524,
+      "sha256": "794fda4af34358f97d76ffe65f3a6e608ffe827069389e80acf6a9b552df8d6e"
+    },
+    {
+      "path": "images/boxes/poker01_option01.png",
+      "size": 5511,
+      "sha256": "0226749209de7109e9ba6f4c77e31ed3ff92126dc93dd38c2ad8e77c5b86cb47"
+    },
+    {
+      "path": "images/boxes/telescope_option_01.png",
+      "size": 6281,
+      "sha256": "5dd5c3d4d689d02279a8e1732baf093b5c466178a71902aae8c8028483caebe6"
+    },
+    {
+      "path": "images/boxes/telescope_option_02.png",
+      "size": 7948,
+      "sha256": "4048a0c9d5fdf1209709296c699e27c00cf71cbb2768e248098137b697041870"
+    },
+    {
+      "path": "images/boxes/telescope_option_03.png",
+      "size": 6276,
+      "sha256": "2c9a442ce6824eb884f171d323590994719df9d30d195432bc01e948e6f815e6"
+    },
+    {
+      "path": "images/boxes/telescope_option_04.png",
+      "size": 7094,
+      "sha256": "84bbbad19478d3e792ea5ef5105b3bffb92b8fbb875989008ca9ec71b826a93a"
+    },
+    {
+      "path": "images/boxes/telescope_option_05.png",
+      "size": 8095,
+      "sha256": "ea23429d98ae4ebaf3e3e8704b3ba18587bb6b5fb3e11e41d7b5b835727dfd5f"
+    },
+    {
+      "path": "images/boxes/telescope_option_06.png",
+      "size": 3588,
+      "sha256": "2c241832dede38a5008c45a761a1ebc85727b7a78d0481072e9e63605c1db75a"
+    },
+    {
+      "path": "images/boxes/training_option_01.png",
+      "size": 6100,
+      "sha256": "f67200273b07cc1144861368be4185d54e60e3c7cf45d94ba3a037cdf8f9f894"
+    },
+    {
+      "path": "images/boxes/training_option_02.png",
+      "size": 5976,
+      "sha256": "d3f5b9d4591d78ed2e99561d608374880106a9c0befa7faa4b135db1354a51ec"
+    },
+    {
+      "path": "images/computer/pc_saga_menu.mkv",
+      "size": 153629,
+      "sha256": "0edf9ca026c932849495dc10d20d3f2bcd8d33041448e4c2d22f419a441bf64c"
+    },
+    {
+      "path": "scripts/data/zh_ui.json",
+      "size": 88083,
+      "sha256": "48098b6127a026a2d54148a9113918c90020f1640110f0eac84a4dc2b3755c60"
+    },
+    {
+      "path": "tl/chinese/01sleep_lock_check.rpyc",
+      "size": 4400,
+      "sha256": "f2e7ef67180168e0d4b38361cb73b2e109d86e3ac7a2a52ccd8d256f0115a22b"
+    },
+    {
+      "path": "tl/chinese/afterglow.rpyc",
+      "size": 1474,
+      "sha256": "3a0598d83fb0676a8326654d982649a356236bb51331fd820639090d28bf21a2"
+    },
+    {
+      "path": "tl/chinese/annie_home.rpyc",
+      "size": 1820,
+      "sha256": "092be9e3a04fc28776e78442224183267131f5211d5345a51fa365f4d22dbf1c"
+    },
+    {
+      "path": "tl/chinese/anniehouse_lock_check.rpyc",
+      "size": 1110,
+      "sha256": "15d45634b2ef02790d1ca48e14909fea477cd4e51b89abb45e2df22207ba9987"
+    },
+    {
+      "path": "tl/chinese/ano03.rpyc",
+      "size": 55770,
+      "sha256": "2ecb742ee5153e5d3b2e2c7f0228ca4a4d57c39e570ee5ea7abb8530b28be255"
+    },
+    {
+      "path": "tl/chinese/ano04.rpyc",
+      "size": 20558,
+      "sha256": "da99dfcbeee64eb9326dab1aa51d6f3ba07d3a2c8555b57e8dc0dcc84ab72906"
+    },
+    {
+      "path": "tl/chinese/ano05.rpyc",
+      "size": 106408,
+      "sha256": "7cfa7302d0f51669e2eee3b65f25c5874e0428069873e953a22d692472a988ad"
+    },
+    {
+      "path": "tl/chinese/ano06.rpyc",
+      "size": 59680,
+      "sha256": "6fe1821332504500aea7c4c9bd53cb3093d23e13f6ee56e6a5c59f6d997f5faa"
+    },
+    {
+      "path": "tl/chinese/ano07.rpyc",
+      "size": 101958,
+      "sha256": "7006a3bc720dbba3966e91e6510afbe4dbcba1217c1e1a0639dec6f3205080f8"
+    },
+    {
+      "path": "tl/chinese/ano08.rpyc",
+      "size": 63160,
+      "sha256": "b461444cc4ab0671477d26489f75bdad551e47cf7661a796601c6f8cbae90525"
+    },
+    {
+      "path": "tl/chinese/ano09.rpyc",
+      "size": 77512,
+      "sha256": "99e814e7ca120c8d0e35d785e5ffb88d615183678c76bc16d9a671ac4b806505"
+    },
+    {
+      "path": "tl/chinese/ano10.rpyc",
+      "size": 77484,
+      "sha256": "6fdf9bb713d784344dba1117c27295c91fd5624b576d143364e9f6793b0e4965"
+    },
+    {
+      "path": "tl/chinese/ano11.rpyc",
+      "size": 76322,
+      "sha256": "94e98c48fac7321740c706087f02c45076c729697b3a872f15725ff77f4d5de6"
+    },
+    {
+      "path": "tl/chinese/ano12.rpyc",
+      "size": 58574,
+      "sha256": "bcdd4c3d65cbbd4991300a7e6e043090dbc15a05662074b0c7dc546d3569deb3"
+    },
+    {
+      "path": "tl/chinese/ano13.rpyc",
+      "size": 84464,
+      "sha256": "f945719e7a8f9fd37696de44671b4ab923b2744ba59943239dab49e395c8a364"
+    },
+    {
+      "path": "tl/chinese/ano14.rpyc",
+      "size": 44138,
+      "sha256": "6ad0cdc1e953214ff233f47445a1f5fca307e3f0b1d0552f0272d75c45f01ab5"
+    },
+    {
+      "path": "tl/chinese/ano15.rpyc",
+      "size": 25242,
+      "sha256": "4c3d28ddcafd11ac19537c7bc702963f7a276e37670d94a6846b8cf44e849590"
+    },
+    {
+      "path": "tl/chinese/ano16.rpyc",
+      "size": 91820,
+      "sha256": "6ae404942af5eb5e2b7706a8eb7fabbb7d45c0012db4e3159b9d7b084fbfaffb"
+    },
+    {
+      "path": "tl/chinese/ano17.rpyc",
+      "size": 157030,
+      "sha256": "9fc0703b5fc2b83d2e7c30420df8d5e2af264eae0bf6830092e8b704642a176a"
+    },
+    {
+      "path": "tl/chinese/ano18.rpyc",
+      "size": 75086,
+      "sha256": "32a5d0ac9b1db680430af518102ba40adca63b768406b52d9123f7a954e34a8c"
+    },
+    {
+      "path": "tl/chinese/ano20.rpyc",
+      "size": 50846,
+      "sha256": "b6ce8536ce7f8f3c3ce28c21656b97d3c6906e7e11a39e7ddd466ff685f3b458"
+    },
+    {
+      "path": "tl/chinese/ano21.rpyc",
+      "size": 28700,
+      "sha256": "10e5818a8896d90c43956ca583842baa2f4b936bcea096378f662fd13d8bab7b"
+    },
+    {
+      "path": "tl/chinese/ano22.rpyc",
+      "size": 119756,
+      "sha256": "988f17e55c1b150a90ce77da332b34b96ccd8700a8575ad6699125c077afbbf3"
+    },
+    {
+      "path": "tl/chinese/ano23.rpyc",
+      "size": 73026,
+      "sha256": "c713474b9980c029fafa4578b1afcfaed6521c843bffbd72a7e2eba5daf0b61b"
+    },
+    {
+      "path": "tl/chinese/ano24.rpyc",
+      "size": 102032,
+      "sha256": "5ab5d64ccc406f281736cb3c7bed6caea2ea267fbb3e236567a9629ca0f2aa1d"
+    },
+    {
+      "path": "tl/chinese/ano25.rpyc",
+      "size": 68606,
+      "sha256": "11c453a745631577b2cd3c616ddf2ed04585f62efd1b11ced87e7041e268b204"
+    },
+    {
+      "path": "tl/chinese/ano26.rpyc",
+      "size": 59362,
+      "sha256": "8f164869d04069f3ee9b49f70549866f88fa19ac85d661c55085a4c5c7409fa8"
+    },
+    {
+      "path": "tl/chinese/ano27.rpyc",
+      "size": 297726,
+      "sha256": "72cdd1ec5aa6e9c585d57b25e00ab361e75d86bfb9aeafd31c275e1813d67219"
+    },
+    {
+      "path": "tl/chinese/ano28.rpyc",
+      "size": 101974,
+      "sha256": "36ba058301bf5c2b8fc668ca611e0a47e6feb46098a4d18f60f516ffbc000a05"
+    },
+    {
+      "path": "tl/chinese/apartment_dialogues.rpyc",
+      "size": 83368,
+      "sha256": "1aa680af974ab6a7d3fd9b7baabdc681120257b73311221c9e212c8c8e3f2148"
+    },
+    {
+      "path": "tl/chinese/apt_lock_check.rpyc",
+      "size": 4398,
+      "sha256": "aa0911012efcae816991dec6175c900a20c99884e7c1f4a2c5aa9b02813c390f"
+    },
+    {
+      "path": "tl/chinese/aquarium.rpyc",
+      "size": 1174,
+      "sha256": "41e5399198ccc3ef6715b24801f9bd94e829d01e2db2c0b91ca116bbe4438b00"
+    },
+    {
+      "path": "tl/chinese/art_classroom.rpyc",
+      "size": 1418,
+      "sha256": "788f7c39238daab88d37772e1abc501089c38b8babddd25c5f34311e194f6f15"
+    },
+    {
+      "path": "tl/chinese/art_minigame.rpyc",
+      "size": 28782,
+      "sha256": "6bb5ed3f2f2991d453c3d577a9053289fb7748ff8f9285fece9850ac6e58df4f"
+    },
+    {
+      "path": "tl/chinese/asleep.rpyc",
+      "size": 1552,
+      "sha256": "b7fc128483d5014cc23ab1699051334c93ac435bb470aed30fc1f89a716a1d9c"
+    },
+    {
+      "path": "tl/chinese/baby.rpyc",
+      "size": 76262,
+      "sha256": "d97257f2ce738e3c97488fd96f117642dae0b8cb0006f0f14a6cd98a2f378166"
+    },
+    {
+      "path": "tl/chinese/backroom.rpyc",
+      "size": 7986,
+      "sha256": "cbd61c81baba248fb1bdaaea05512155cb50ab24c17f7b9fa977bad205b00dba"
+    },
+    {
+      "path": "tl/chinese/bank.rpyc",
+      "size": 22004,
+      "sha256": "e53f3062e64f7e2b55a9618ef2db5f7c72974081467fd16052f5c47a947e1500"
+    },
+    {
+      "path": "tl/chinese/bank_lock_check.rpyc",
+      "size": 6824,
+      "sha256": "02becfb7186901494f61d6507fb8529ddb644931c6d215a24bbc9c54268ae8f2"
+    },
+    {
+      "path": "tl/chinese/basement.rpyc",
+      "size": 21188,
+      "sha256": "5c4f25e392441d653992c1a633f5e9d540b30628c921824a9c8acf785b3452ea"
+    },
+    {
+      "path": "tl/chinese/basket_minigame.rpyc",
+      "size": 23768,
+      "sha256": "43220f8b7fba8a727c5dd82518f97a6409f3c8157b433d3e3adb481387680d8b"
+    },
+    {
+      "path": "tl/chinese/bathroom_dialogues.rpyc",
+      "size": 15828,
+      "sha256": "b1ab38f0470a1a49b07aa1bb5a8af5899b1d230284c2f8c9ec583d7b3ee28a9f"
+    },
+    {
+      "path": "tl/chinese/beach.rpyc",
+      "size": 2846,
+      "sha256": "4c8c44f7e0e75778c99c66e500d96cf178d1dbe4c0a1c24314a4bd0066249a8b"
+    },
+    {
+      "path": "tl/chinese/beach_house_lock_check.rpyc",
+      "size": 2398,
+      "sha256": "298fbb0493793958c42beabd37b1e25f08ad32f1c74c23cf723ad16a682c887a"
+    },
+    {
+      "path": "tl/chinese/beachhouse.rpyc",
+      "size": 28992,
+      "sha256": "44e420a9b4aaebf445487b6999aa7cb662d55959c690573ab435c103da602c2e"
+    },
+    {
+      "path": "tl/chinese/bec01.rpyc",
+      "size": 70676,
+      "sha256": "428baf36cd06f6a4dfafbf619c5e1445937292e71c7a097248c89f13e9ab1103"
+    },
+    {
+      "path": "tl/chinese/bed.rpyc",
+      "size": 17380,
+      "sha256": "984ce67bb735d5d78e13682c8edecb3519958f14a49ce5db2b90fc5fe28f097e"
+    },
+    {
+      "path": "tl/chinese/bed_tiger.rpyc",
+      "size": 6694,
+      "sha256": "c35f26280c5b96450bbe4aca7f09328972c4a2750290b412c5eece29292bde09"
+    },
+    {
+      "path": "tl/chinese/bedroom.rpyc",
+      "size": 142984,
+      "sha256": "b8218728eca5416a08011b561e2c96a65acc3b19247f534fa62b269ab44a351b"
+    },
+    {
+      "path": "tl/chinese/bedroom_blowjob.rpyc",
+      "size": 8374,
+      "sha256": "a33846758f7a0b205a2d1b457d8046f0a62f2e96ad47964598ed33545131316c"
+    },
+    {
+      "path": "tl/chinese/bedroom_dialogues.rpyc",
+      "size": 70600,
+      "sha256": "2d3f5c263c705b06410820bf23cd496eb7627f38d9ddef5a308127d8eea89083"
+    },
+    {
+      "path": "tl/chinese/bedroom_press.rpyc",
+      "size": 11382,
+      "sha256": "8b7367f7b4e35513de75b0fd079d9bb7a6dadc6d774a485a286044cc1b74c442"
+    },
+    {
+      "path": "tl/chinese/bedroom_thirst.rpyc",
+      "size": 3718,
+      "sha256": "d48ee5c763c8984e51adeabe33eaf7880aa05ea74f8c97236da9466f4648ceff"
+    },
+    {
+      "path": "tl/chinese/bike_repair.rpyc",
+      "size": 33558,
+      "sha256": "0b602d22490bbdaa30e25b156d4a6597540a36de21a9e915948930782e0eba30"
+    },
+    {
+      "path": "tl/chinese/blowjob.rpyc",
+      "size": 52820,
+      "sha256": "277eb0aa430f18503808c672225695b6fd8081c042d0d016d8f02f102a354a84"
+    },
+    {
+      "path": "tl/chinese/boobjob.rpyc",
+      "size": 20294,
+      "sha256": "27ff55bfc54a705c5bc0a1c493dde67dc098b8fdc06370e9ea49a822f7ef32bb"
+    },
+    {
+      "path": "tl/chinese/bot01.rpyc",
+      "size": 14948,
+      "sha256": "e4233532207f19758ce5ebabb011f5d3a3acd0d880bfad1eff750c2ca335e1a0"
+    },
+    {
+      "path": "tl/chinese/button.rpyc",
+      "size": 53190,
+      "sha256": "8c320ff8be93f531a70a8781f2441106d02416f127539a6339ce3be46083f2ec"
+    },
+    {
+      "path": "tl/chinese/button_angelicas_room_dialogues.rpyc",
+      "size": 41666,
+      "sha256": "bca6098cb14e89b1e04c5f2be80d4fa96cc9091ee3b3d9c1e5004dc87f49bfbe"
+    },
+    {
+      "path": "tl/chinese/button_bedroom_dialogues.rpyc",
+      "size": 28876,
+      "sha256": "45dfbe585bdb23f682cbe1690c412af73326cee849aa223a7b5b073acd3a016a"
+    },
+    {
+      "path": "tl/chinese/button_contest_dialogues.rpyc",
+      "size": 18158,
+      "sha256": "0f70c16473df454f29cce49dece92dad5fb6b4db9d1d5a0b0a873f5b071d9d06"
+    },
+    {
+      "path": "tl/chinese/button_cupid_dialogues.rpyc",
+      "size": 5634,
+      "sha256": "b26ce1e74a0cd8937dfa8af12e9b31b689c5e1f5a7c91cac71218329936ac576"
+    },
+    {
+      "path": "tl/chinese/button_dialogues.rpyc",
+      "size": 1968704,
+      "sha256": "65e42f8dca6cbd4e96d3126ebf5f33ae6f2cce93e359d0be5072b95fb09d60cc"
+    },
+    {
+      "path": "tl/chinese/button_dialogues01.rpyc",
+      "size": 180496,
+      "sha256": "2f6116f50db069bc73b96b6cd8b2aeddade942a69432d8e7a149efbb014a277d"
+    },
+    {
+      "path": "tl/chinese/button_dialogues_1.rpyc",
+      "size": 89236,
+      "sha256": "12aa53c4d874443de8499415dfe8c74962bad9d4d47c18858bbd9ecf3e2e6907"
+    },
+    {
+      "path": "tl/chinese/button_dialogues_2.rpyc",
+      "size": 68720,
+      "sha256": "7e0439befcb3e0e6e2e92659c914bae1fcc6bbc08f3ef8a112a815a3734008ea"
+    },
+    {
+      "path": "tl/chinese/button_dialogues_3.rpyc",
+      "size": 44690,
+      "sha256": "9d5acc1b1016911ee2dd62a29146d1eac7f4e26f9f73d675fcc1f4333eedc347"
+    },
+    {
+      "path": "tl/chinese/button_dialogues_4.rpyc",
+      "size": 37094,
+      "sha256": "9f4e8d0cb08f88a5dfb9595652d6234a1815015e8fcfc2d458b8b89575f82bbf"
+    },
+    {
+      "path": "tl/chinese/button_dialogues_5.rpyc",
+      "size": 6226,
+      "sha256": "caf1141618944d2ab9787f79973c04080a1a749017c1ec1f6916a9748d1af5c3"
+    },
+    {
+      "path": "tl/chinese/button_dialogues_gym.rpyc",
+      "size": 4282,
+      "sha256": "0b58a4e9224103968fdcbd8598c48f6c3b587376968c8c2d625c637ca2472188"
+    },
+    {
+      "path": "tl/chinese/button_dialogues_intro.rpyc",
+      "size": 21176,
+      "sha256": "f80450211f1597e7d1b5a90baeff7d01bbb836a7f5e4c39f002545999eda14c5"
+    },
+    {
+      "path": "tl/chinese/button_home_dialogues.rpyc",
+      "size": 4398,
+      "sha256": "10b6321be07c3b7a8af7d6932feeff321779277109c44ab07f421650a1477f97"
+    },
+    {
+      "path": "tl/chinese/button_library_dialogues.rpyc",
+      "size": 33410,
+      "sha256": "3b7aa4d883ea0bfbb7a1e3484337096dc56d3740bf0d21fddeec7b13c8bdfc82"
+    },
+    {
+      "path": "tl/chinese/button_livingroom_dialogues.rpyc",
+      "size": 19528,
+      "sha256": "d4706c577416f9afa1a603e09c6ce08b825f30807ea7eb7559ea45cf5c078dad"
+    },
+    {
+      "path": "tl/chinese/button_master_bedroom_dialogues.rpyc",
+      "size": 10520,
+      "sha256": "e6bcd3914c5dd3ac032aa33bd2437da0b31277fc09add3edd8388f7bf85d93ae"
+    },
+    {
+      "path": "tl/chinese/button_mias_house_front_dialogues.rpyc",
+      "size": 6020,
+      "sha256": "e68509d51f822acde3043482ca110fbf848e4b11868eb7bb5e8f1dce000f46ff"
+    },
+    {
+      "path": "tl/chinese/button_missy_becca.rpyc",
+      "size": 2612,
+      "sha256": "45be9712da0453a941414c2ddd3ce4682359eb0088cad9a309cf8e19c83b98dd"
+    },
+    {
+      "path": "tl/chinese/button_missy_becca_dialogues.rpyc",
+      "size": 35604,
+      "sha256": "15a96b665663d63c738b94cd341dff6a3721246b105ac9a147e1d37801670df7"
+    },
+    {
+      "path": "tl/chinese/button_police_basement_dialogues.rpyc",
+      "size": 7282,
+      "sha256": "12094d876036bb0a2bfeea9fd075047048055a86d6e6eb56c43db0e43c93aae1"
+    },
+    {
+      "path": "tl/chinese/button_police_cell_dialogues.rpyc",
+      "size": 31654,
+      "sha256": "14a9fad6978d1e102472e4168829be51da4a9b92128cc8650e20fb7405268d18"
+    },
+    {
+      "path": "tl/chinese/button_police_office_dialogues.rpyc",
+      "size": 52286,
+      "sha256": "ee56092d63c324be612b91ae184f27cb95354c5ae4f902342c315e3456a6ca23"
+    },
+    {
+      "path": "tl/chinese/button_pool_dialogues.rpyc",
+      "size": 5044,
+      "sha256": "e17421ed707419c5dd067444c88e1af4cc39e06d7f5d2bfda4ec1fee3995ebcd"
+    },
+    {
+      "path": "tl/chinese/button_pregnancy_dialogues.rpyc",
+      "size": 76936,
+      "sha256": "b0cd317bd15ef922f29c395e4c2678a6e060b365a33938988a352b9b39eaf75d"
+    },
+    {
+      "path": "tl/chinese/button_showers_dialogue.rpyc",
+      "size": 23838,
+      "sha256": "294941f856c6e494667aa588ebbd32251f77a8bcfeb02f8d158bb30e19b2bd51"
+    },
+    {
+      "path": "tl/chinese/button_yoga_room_dialogues.rpyc",
+      "size": 21110,
+      "sha256": "53051d9ebdb503dedc2a36b9cab0a0a782316f8e4eead476a67ac1386b8cae60"
+    },
+    {
+      "path": "tl/chinese/camslut.rpyc",
+      "size": 6512,
+      "sha256": "3220aef859aebdd3bb6133d72f07fec660043e76e3cd9fb3eaab9fbe59128e0d"
+    },
+    {
+      "path": "tl/chinese/cargo.rpyc",
+      "size": 24164,
+      "sha256": "2a2d99327e132a22b7cc0b2a3148192848410848d370824e493926859c0d28d6"
+    },
+    {
+      "path": "tl/chinese/church.rpyc",
+      "size": 21188,
+      "sha256": "aecd0b6c122ca2982fa49531d3fe12c7d26d3d3e9605a73c9363280069924e5a"
+    },
+    {
+      "path": "tl/chinese/church_lock_check.rpyc",
+      "size": 5838,
+      "sha256": "4b027d12fe167b73213181a037294e6e9ed8a04776ac72cb388839d3d3d25a10"
+    },
+    {
+      "path": "tl/chinese/common.rpyc",
+      "size": 47568,
+      "sha256": "413ea970e647d4b2db3031e65cd221880dfc36978239351e779e3cdfcfe149e4"
+    },
+    {
+      "path": "tl/chinese/con01.rpyc",
+      "size": 97560,
+      "sha256": "c475b25091b014b325e9c954d6f90e86bc9c879c196c9da22b8508bfed89472b"
+    },
+    {
+      "path": "tl/chinese/con02.rpyc",
+      "size": 73506,
+      "sha256": "768f973bf2bd6a3cb1b4b20652b12cdafd81b85d11e6b9ca005fee84ba0af5d2"
+    },
+    {
+      "path": "tl/chinese/con03.rpyc",
+      "size": 60090,
+      "sha256": "59ac5b7aa8477ae92fe000e60f7075443764bec54a1d6e9af7a0e71ded745a6a"
+    },
+    {
+      "path": "tl/chinese/con04.rpyc",
+      "size": 24482,
+      "sha256": "d427742aee13b967f27f94bfacdf639eb3941f5f375e06cd143a4bfa1354d429"
+    },
+    {
+      "path": "tl/chinese/couch.rpyc",
+      "size": 9116,
+      "sha256": "a3f36d38654bbe3cb68bf3768be87f8a54d81c65e78e12f80e6f8bfde4c3836d"
+    },
+    {
+      "path": "tl/chinese/couch_anal.rpyc",
+      "size": 14160,
+      "sha256": "00289446274ee343872e16b4694af384e6e694bf37f5f3b1d7f23f07c2861165"
+    },
+    {
+      "path": "tl/chinese/couch_back.rpyc",
+      "size": 13142,
+      "sha256": "fdd0f2478981968082cb8a09ef579458da1c038864f9b6270c8f38d134784d98"
+    },
+    {
+      "path": "tl/chinese/crates_lick.rpyc",
+      "size": 9132,
+      "sha256": "6729ae39086206ba9ebbd4462dd36f0f878d55fbb63da6a8a659c252302347dc"
+    },
+    {
+      "path": "tl/chinese/crates_sex.rpyc",
+      "size": 13852,
+      "sha256": "2da09902cd64decc11861effc47218d97d831be3a0884bbcef71b2460258ca55"
+    },
+    {
+      "path": "tl/chinese/crypt.rpyc",
+      "size": 17688,
+      "sha256": "743e5e4896f812ead3da22e8a966bf21285de6db5c90d346be9144729d759278"
+    },
+    {
+      "path": "tl/chinese/crypt_cowgirl.rpyc",
+      "size": 10292,
+      "sha256": "43ce065b43d881d4f3dc2cfa712e4f63b593bac48d73cf41c4afa0b4d3431976"
+    },
+    {
+      "path": "tl/chinese/cupid.rpyc",
+      "size": 8746,
+      "sha256": "e189697b75cc29d20cd1c0b73ccc27b2fcb795693f50b832d7012de6f4a3aa32"
+    },
+    {
+      "path": "tl/chinese/dai02.rpyc",
+      "size": 8346,
+      "sha256": "f0edfe974217e29482e4ebbb313899465f47f0165098c8db5898cbc69b8a0511"
+    },
+    {
+      "path": "tl/chinese/dealership.rpyc",
+      "size": 23822,
+      "sha256": "15ce06593fa2af800f229201a4fde5132306840a3ae334abbcd8cbf83f34dbaa"
+    },
+    {
+      "path": "tl/chinese/dealership_lock_check.rpyc",
+      "size": 4718,
+      "sha256": "27b3addfd849d1957207072561f493af36eb138363816049bd0194927517385f"
+    },
+    {
+      "path": "tl/chinese/deb0m.rpyc",
+      "size": 13422,
+      "sha256": "3a241e9b9a9a800439d200d80db5b8da7b59e36389bbcbb8d9134f3189033e1a"
+    },
+    {
+      "path": "tl/chinese/debXX.rpyc",
+      "size": 33286,
+      "sha256": "2f4b830885cab0d90bb795177b8186764488f98b7ee7879aa76fb422e578e4d3"
+    },
+    {
+      "path": "tl/chinese/depot.rpyc",
+      "size": 58242,
+      "sha256": "6a5e96219c8e2a1c89cf2d8c309b0fd5d6cd93de3de164e30cb0b281dfdd6719"
+    },
+    {
+      "path": "tl/chinese/desk_side.rpyc",
+      "size": 13424,
+      "sha256": "c644bc6dc183792fde785ee959952932d5976c7573a9432df13050d730d7fb87"
+    },
+    {
+      "path": "tl/chinese/desk_top.rpyc",
+      "size": 2642,
+      "sha256": "ed0385c6fa935a743963724000ca702cfd5a46c9dd4752fcf9685d3c6e606d51"
+    },
+    {
+      "path": "tl/chinese/desktop.rpyc",
+      "size": 4896,
+      "sha256": "3e03220587c48978c492c1fb80d755a559d1d0ac80f92a9e251d788771e2df81"
+    },
+    {
+      "path": "tl/chinese/dia01.rpyc",
+      "size": 7036,
+      "sha256": "290a61f0a74c50eb38af46424a3ef854f84d8a7dee9728e1154654fc1b53fd7c"
+    },
+    {
+      "path": "tl/chinese/dia03.rpyc",
+      "size": 23584,
+      "sha256": "aec04d3382e75e076b58198d34ae0587c6e8c853d83203bcd7465ef2708dedc9"
+    },
+    {
+      "path": "tl/chinese/diaXX.rpyc",
+      "size": 1204,
+      "sha256": "65cdb3b0eb88831ec4cc1d7581dd56911d959dc6bc732d1d2d9432c0d2efe98b"
+    },
+    {
+      "path": "tl/chinese/dialogue.rpyc",
+      "size": 263106,
+      "sha256": "575c265bfffe07dcacf47b2feded3f709b5fc4023573ea5349eedee3e01b38e5"
+    },
+    {
+      "path": "tl/chinese/dialogues.rpyc",
+      "size": 3571154,
+      "sha256": "122afcabd69d396cc388da281b99ff84f9f41e868cb2b4d424bac708c801d0fe"
+    },
+    {
+      "path": "tl/chinese/diane.rpyc",
+      "size": 10104,
+      "sha256": "55969b4db1a0c6d51ed33a26f72d865faa8bb7ebcb84f6dacbc55f8037b01a15"
+    },
+    {
+      "path": "tl/chinese/diane_lock_check.rpyc",
+      "size": 13086,
+      "sha256": "41e7e7ad35e77180807df0937bfa316591b1e3c50dab46b5f7f4c3b0d03ffc62"
+    },
+    {
+      "path": "tl/chinese/dianes_frontyard_dialogues.rpyc",
+      "size": 2582,
+      "sha256": "8fd4c5f4cc96151414c52a340526462c37d136c2cb5f4bf7d591df71082d89a2"
+    },
+    {
+      "path": "tl/chinese/dining_room.rpyc",
+      "size": 1120,
+      "sha256": "0bea217dd733f6db8239b8701a9af0afc0e7e7f313f011b1d51a6e20893e1292"
+    },
+    {
+      "path": "tl/chinese/dining_room_sex_scene.rpyc",
+      "size": 22604,
+      "sha256": "30b9869dec85a602ad9d4a7a1242b7c8008da5952e9ce393da86e1323b7bb719"
+    },
+    {
+      "path": "tl/chinese/donut_shop_lock_check.rpyc",
+      "size": 1178,
+      "sha256": "91ddfc237bc20e97c190c89c7d7ee57595a7c0c753ee420ac05007525a12bd15"
+    },
+    {
+      "path": "tl/chinese/driveway.rpyc",
+      "size": 16508,
+      "sha256": "e6cbad9558c3c69c04328142e195dc7498f7d06c9db4a75a7a72abd4fc3ea583"
+    },
+    {
+      "path": "tl/chinese/egay.rpyc",
+      "size": 1762,
+      "sha256": "ed9bd44a44a27ce97f9d71fc9e84d67ac27606bed0ad74b18ec7e63daa0c6145"
+    },
+    {
+      "path": "tl/chinese/elevator.rpyc",
+      "size": 9678,
+      "sha256": "5719cb20eb8bc410550993039cb02071d9072f210e9fa4f7194a12e0cc0421ae"
+    },
+    {
+      "path": "tl/chinese/erik_s_house.rpyc",
+      "size": 2298,
+      "sha256": "e9ba308be08a647bd134ac7dd26607051d79af9277587c561bc6e8163b5cad5e"
+    },
+    {
+      "path": "tl/chinese/erik_s_room.rpyc",
+      "size": 4626,
+      "sha256": "538ebb7ce46fbafa8cdd74d87021e5fb02229e965f4a284fc81723900554cc6a"
+    },
+    {
+      "path": "tl/chinese/erikhouse_lock_check.rpyc",
+      "size": 7506,
+      "sha256": "19a6429b8d191cc3465a56dc0fd3357454c4f02ceb8bbb06a3e4a80e841202df"
+    },
+    {
+      "path": "tl/chinese/estate.rpyc",
+      "size": 15838,
+      "sha256": "1bdefb01f0b4e28a27ef61bafa9ead525160cd1facb9ea21b7f00bd20d6f6e92"
+    },
+    {
+      "path": "tl/chinese/eve20.rpyc",
+      "size": 12212,
+      "sha256": "b17dfe2c3bbb6a8e51b5bce6e4d78543a17c2795b3c831fa6bab8ca877fbcb45"
+    },
+    {
+      "path": "tl/chinese/eveX1.rpyc",
+      "size": 12710,
+      "sha256": "04f0b1bc843dba5460d068239b6578441dc7df5de77617b6b04382e0ff792542"
+    },
+    {
+      "path": "tl/chinese/eveX2.rpyc",
+      "size": 29378,
+      "sha256": "8594468c565d377dd3fd3ac7da8f2efc63c8ff1cab7cefb5b0d0ad8999f98aca"
+    },
+    {
+      "path": "tl/chinese/events.rpyc",
+      "size": 52470,
+      "sha256": "78811d4e53cd9a3248483e780456c84a7a79dc2ee3bcc6727f4aa696e3f5ae0d"
+    },
+    {
+      "path": "tl/chinese/fire_escape_dialogues.rpyc",
+      "size": 6190,
+      "sha256": "b35faac5f826701cf0e567a92a51f49736c12e5e9bbe516c40a61a4624e343d2"
+    },
+    {
+      "path": "tl/chinese/fishing_minigame.rpyc",
+      "size": 6982,
+      "sha256": "37b29eecbcaf58aaa1f4b9b68492c39c5e60c3359d22b66c157a365e35f586ab"
+    },
+    {
+      "path": "tl/chinese/floor.rpyc",
+      "size": 10394,
+      "sha256": "0c03281cf44baaa7c30e72df31e02b1a13e7a7ba8b16a111a5997392ac5b00d4"
+    },
+    {
+      "path": "tl/chinese/fountain.rpyc",
+      "size": 1142,
+      "sha256": "ea750b41cbd5b5ce910d6c01306e4771ef81b6c914e261e37458d9b759033909"
+    },
+    {
+      "path": "tl/chinese/french_classroom_button_dialogues.rpyc",
+      "size": 22342,
+      "sha256": "206b48ba570a7566e5ff839194b05c3de5c95e6280fad51272b093bec699f17a"
+    },
+    {
+      "path": "tl/chinese/french_quiz_minigame.rpyc",
+      "size": 6558,
+      "sha256": "f855bb069f8495760eadaee90369f8f8d98e1caaa2e7cc4ffe8d18de98c9e47d"
+    },
+    {
+      "path": "tl/chinese/furnace_blowjob.rpyc",
+      "size": 13076,
+      "sha256": "1e0bf1940e644d86906731fdc02f35d808ddf9bf64c4b5beca3661b5e33e0ea4"
+    },
+    {
+      "path": "tl/chinese/furnace_cowgirl.rpyc",
+      "size": 14980,
+      "sha256": "826e03085aa248e7d897f89c754683a7a31c2909a46f4cd5e20eba9d0ec8def2"
+    },
+    {
+      "path": "tl/chinese/furnace_doggy.rpyc",
+      "size": 7326,
+      "sha256": "b6e59b6e0625813e3920e24bb19725afe2743a1734550c2276e8a10b6f946882"
+    },
+    {
+      "path": "tl/chinese/garage.rpyc",
+      "size": 15498,
+      "sha256": "dc0d0206cb43d1fde4ab6330a92a7ce234e116ac6dd9c5ba9a6c0245acb814df"
+    },
+    {
+      "path": "tl/chinese/garage_dialogues.rpyc",
+      "size": 35380,
+      "sha256": "ceed620f668006e91773a480d2a83f1514d14c2111229321acd0a9d536ebbb43"
+    },
+    {
+      "path": "tl/chinese/garden.rpyc",
+      "size": 24548,
+      "sha256": "675fb6903ee864852b1ce4866f300ab87dffb6baa0d8d051f11668cd87c1eb0f"
+    },
+    {
+      "path": "tl/chinese/garden_minigame.rpyc",
+      "size": 19010,
+      "sha256": "47bad184091f70b53f194010d32392add53c0489ef6a58861f4130aae5818425"
+    },
+    {
+      "path": "tl/chinese/gra01.rpyc",
+      "size": 30374,
+      "sha256": "50cfbd15512f06ca62724eca25a97af925e3482fb62097c1464be2cff9d48c2d"
+    },
+    {
+      "path": "tl/chinese/guitar_hero_minigame.rpyc",
+      "size": 29508,
+      "sha256": "fdc65ae8839842defad0abc1c88af94920773e55f04794275bb1d31c83cd88dc"
+    },
+    {
+      "path": "tl/chinese/gym_lock_check.rpyc",
+      "size": 1144,
+      "sha256": "0bd725b2d72dd0adba3bf84746f62164dbd0dc16cb10ec1fde7e558ce7476d12"
+    },
+    {
+      "path": "tl/chinese/hacking_minigame.rpyc",
+      "size": 4404,
+      "sha256": "9fc5a34cc687989a597efc9f9f0855053e888178dd469b5c7be8989b18bd24e3"
+    },
+    {
+      "path": "tl/chinese/hallway.rpyc",
+      "size": 1636,
+      "sha256": "e8153f88ab6470f6e950dd9cb115adc2468ccb5cba9464ca97750acb0a171bca"
+    },
+    {
+      "path": "tl/chinese/helper.rpyc",
+      "size": 2512,
+      "sha256": "652bec49232c9e6bf59d77f0c181d304ff77f832e5c164dad97ea60fab6eba33"
+    },
+    {
+      "path": "tl/chinese/home_lock_check.rpyc",
+      "size": 13310,
+      "sha256": "83123b026ea3c6ae743ab352bcf1ffc8b117dd2e3904ae6857bfeeef6e38304c"
+    },
+    {
+      "path": "tl/chinese/hospital.rpyc",
+      "size": 12536,
+      "sha256": "9c9fb084f79ad22c0e8f3cea515d2e91b3d2daaed0615a262890762f80f582fa"
+    },
+    {
+      "path": "tl/chinese/hospital_lab.rpyc",
+      "size": 23218,
+      "sha256": "971bfad3cdf509a4580022feff0ff2a68c303eda5dd58fc4ffc529748d5902ce"
+    },
+    {
+      "path": "tl/chinese/hospital_lock_check.rpyc",
+      "size": 4856,
+      "sha256": "3b6d594c5c50606ba6f7f83f64175edd0c79b86b4bf03c522b4f47a0f52c75fa"
+    },
+    {
+      "path": "tl/chinese/hottub.rpyc",
+      "size": 20222,
+      "sha256": "3fbad9187212352c3e8f2c463e5ee1f19e70bfb35e5e46a019d44ba147c71e0b"
+    },
+    {
+      "path": "tl/chinese/indoor_dialogues.rpyc",
+      "size": 80852,
+      "sha256": "5b910ef797cfbaae123a6f74f20c67265564200a2cb47ea5f4f789f5ce0a77c3"
+    },
+    {
+      "path": "tl/chinese/item_dialogues.rpyc",
+      "size": 18864,
+      "sha256": "87543152cc39f28bb910ecb65556ccf0721e54d50433039f4b0508bb2e00ec1c"
+    },
+    {
+      "path": "tl/chinese/items.rpyc",
+      "size": 27470,
+      "sha256": "4d41c7cc700bd7866553b4c09afe41e0c4947937ca81c55bbc8cc54d66ba63b7"
+    },
+    {
+      "path": "tl/chinese/iwa01.rpyc",
+      "size": 113144,
+      "sha256": "4c6d8fdac4b5340e675613c66ead3e0e837a8edcfb57a8103b3f8f899b66f708"
+    },
+    {
+      "path": "tl/chinese/iwa02.rpyc",
+      "size": 6864,
+      "sha256": "8887ee68fe0ebf34cdf9b8a91632c568db31efea37326287f7d577cb2300b541"
+    },
+    {
+      "path": "tl/chinese/iwanka.rpyc",
+      "size": 8784,
+      "sha256": "87ac1f75ea65c7e95121a13b0b0239048baf3343a41bb8a45df9d0a7daa03915"
+    },
+    {
+      "path": "tl/chinese/jail.rpyc",
+      "size": 28044,
+      "sha256": "d0593efab2399f4872cbf0b9f76509cba4a8c88c5de1925275e957b0e04b3bc7"
+    },
+    {
+      "path": "tl/chinese/jane.rpyc",
+      "size": 7024,
+      "sha256": "3ed3519be4b9750c670e034526a9b4b5247b14e2c11157ab287ea3339a35d815"
+    },
+    {
+      "path": "tl/chinese/jen0m.rpyc",
+      "size": 54924,
+      "sha256": "c13a93d6ac6f4a023c40e8682bff607df8f0cfd2d9dfad512ac0000bc20526ca"
+    },
+    {
+      "path": "tl/chinese/jenXX.rpyc",
+      "size": 3440,
+      "sha256": "bc0f550ace6a990bbd21bc98c8c841f7b0c69fbda6c993d4ccc69f498315b63d"
+    },
+    {
+      "path": "tl/chinese/jenny_bed_sex_scene.rpyc",
+      "size": 22560,
+      "sha256": "8736a11af552b5acf9756ccf2513482a6d9808598391b6ae1f93bbed39e2d608"
+    },
+    {
+      "path": "tl/chinese/jos01.rpyc",
+      "size": 73612,
+      "sha256": "51e286c8ab281cc253451b0c98066321dff7de2fca14d0b8fe19897173ab9bbe"
+    },
+    {
+      "path": "tl/chinese/jos02.rpyc",
+      "size": 11370,
+      "sha256": "d39383cec4a5023049b404abeb329b39e704c1724da2e25b8c449c68609555af"
+    },
+    {
+      "path": "tl/chinese/josie.rpyc",
+      "size": 9842,
+      "sha256": "aca837f5b2416014c01d52da41980ef986e017de8912939ea9c8b02d356acc5f"
+    },
+    {
+      "path": "tl/chinese/just_wokeup_dialogues.rpyc",
+      "size": 46200,
+      "sha256": "16e52f3c68fcf4c32cbb3e941db5f4a7201b842160e3888eb377925fa251672f"
+    },
+    {
+      "path": "tl/chinese/kat01.rpyc",
+      "size": 25360,
+      "sha256": "f0e98c1d66ae272ec9ae477ff8c552dad8feae19654ad86892836089d0a6805a"
+    },
+    {
+      "path": "tl/chinese/kha01.rpyc",
+      "size": 63866,
+      "sha256": "4e626cc3d527fbeb40e71cea5ee1ecb6921ba0cb0e0a0ef7cfc8484262b76c8a"
+    },
+    {
+      "path": "tl/chinese/kitchen.rpyc",
+      "size": 9390,
+      "sha256": "7873de02a5eb1caa2b93d9c1cc895846064ab82bb763dafc61d193de2c1cbc40"
+    },
+    {
+      "path": "tl/chinese/lab.rpyc",
+      "size": 52100,
+      "sha256": "f53d16d503cdd8bea9abc3f08d502759b5c4616225d02f156e157366fa6b8e29"
+    },
+    {
+      "path": "tl/chinese/left_dialogues.rpyc",
+      "size": 2122,
+      "sha256": "f368d0804c4d900f01b0137737f88fa5d0a85ea000ed5d7469a1b9639bb06133"
+    },
+    {
+      "path": "tl/chinese/library_bookshelf.rpyc",
+      "size": 7044,
+      "sha256": "2d050decd596f3a2b934867c77e017fbc2cfbfb08b6e3d00e81cda8a1ac3d0c1"
+    },
+    {
+      "path": "tl/chinese/library_lock_check.rpyc",
+      "size": 2144,
+      "sha256": "a1c35c53cbf4413ae3b37f893c9cfe0b1d3b6acd0ceeae12e1787ab7092422c4"
+    },
+    {
+      "path": "tl/chinese/liu.rpyc",
+      "size": 7868,
+      "sha256": "ceef68d6483332f93ed88c3f18d8d037be36628f9dcaa66df0a07deb5249ba69"
+    },
+    {
+      "path": "tl/chinese/liu01.rpyc",
+      "size": 20524,
+      "sha256": "8b14ea818b6286566ee6f374cdc3dccc5cb4c4b78b342daff4fa0153339eb102"
+    },
+    {
+      "path": "tl/chinese/liu_lock_check.rpyc",
+      "size": 3170,
+      "sha256": "2516b6e18942647666f6922cb2b1f68d8f85159743be652b97e0989062976036"
+    },
+    {
+      "path": "tl/chinese/lobby.rpyc",
+      "size": 43888,
+      "sha256": "2dc30421783b47b3d2f1c786052894e2ffc239c5d5b9cec6c11ca51e7f2130a9"
+    },
+    {
+      "path": "tl/chinese/locker_check.rpyc",
+      "size": 2400,
+      "sha256": "02fa6a051fc9355f6ae7c679471b7e5f4192d98b120f0bfa5a209e7f6c178328"
+    },
+    {
+      "path": "tl/chinese/loft.rpyc",
+      "size": 12896,
+      "sha256": "deea39983a41a55d5952b04a0d4b695160f4ebbbd063f4b547ae42c891e6f0b6"
+    },
+    {
+      "path": "tl/chinese/login.rpyc",
+      "size": 5454,
+      "sha256": "cf595c2df833683d38ecf71039ad5f5ca96579fbba903abd4610d2d0b08d55e3"
+    },
+    {
+      "path": "tl/chinese/lounge.rpyc",
+      "size": 51020,
+      "sha256": "29260f0379c5808c365f8f69b61a647adcdce326bf8cd5105701d09f786b669b"
+    },
+    {
+      "path": "tl/chinese/lounge_doggy.rpyc",
+      "size": 4406,
+      "sha256": "8f894f0339cfe136a2443ea5f09b027c3bcc3eeb5f823b8315aea8649930953d"
+    },
+    {
+      "path": "tl/chinese/mall.rpyc",
+      "size": 50550,
+      "sha256": "c2bc4a6f1acb5c9d4eda747e9aa7128814616a633f0cceb02e0e935fb81c8210"
+    },
+    {
+      "path": "tl/chinese/mall_lock_check.rpyc",
+      "size": 4198,
+      "sha256": "f91a812f9a777ced773e222f5b4aac6c41cee19f3928a00e01db6408af6cc046"
+    },
+    {
+      "path": "tl/chinese/mansion.rpyc",
+      "size": 15062,
+      "sha256": "67fad2f84937eac32aad35f5a4d71ddb96766188744050e6cb10b10a3b26538f"
+    },
+    {
+      "path": "tl/chinese/map_destination_lock_check.rpyc",
+      "size": 6268,
+      "sha256": "ccc54f843f33193f262a66d73d6574305ae3926bf4fe72b3cbb1a0e3c1cad424"
+    },
+    {
+      "path": "tl/chinese/map_lock_check.rpyc",
+      "size": 10048,
+      "sha256": "757590dcd1e630b1eba148a921a3edda8c1bb6e770501114daa64a78ef56b964"
+    },
+    {
+      "path": "tl/chinese/mar01.rpyc",
+      "size": 10762,
+      "sha256": "c359e4934d12fd577f5e550302fcbf98cab1723d03c4df7a802562e58b5a5311"
+    },
+    {
+      "path": "tl/chinese/maria.rpyc",
+      "size": 17464,
+      "sha256": "41f1c35dc3273beabc2d990c38e2ce8051364036c9109fa57d5dabcd95e09928"
+    },
+    {
+      "path": "tl/chinese/maria_lock_check.rpyc",
+      "size": 3270,
+      "sha256": "8bc19f43d7513d79a8d4df3c04204f8d45c71edfef58c32e6552e5158583f193"
+    },
+    {
+      "path": "tl/chinese/mel01.rpyc",
+      "size": 43920,
+      "sha256": "df062b43eac5b00c6fc2c1f217c814be1b2b5763ac1302acc4b1bcd562251c6d"
+    },
+    {
+      "path": "tl/chinese/mel02.rpyc",
+      "size": 20548,
+      "sha256": "8994964b4f038d24314350a115163951e615ee67086200eb0ae2dad0cf1a556e"
+    },
+    {
+      "path": "tl/chinese/mel03.rpyc",
+      "size": 26834,
+      "sha256": "7089c2b013be36c90266d9bda240dd0e2ec62ae62d7fe36956637aa57e92836b"
+    },
+    {
+      "path": "tl/chinese/mel04.rpyc",
+      "size": 42086,
+      "sha256": "330be710a43526e14875658c9fb5e4ccdd6ba71bd9eded3075bd113d467e0cbc"
+    },
+    {
+      "path": "tl/chinese/mel05.rpyc",
+      "size": 25864,
+      "sha256": "5d379c9640ac4215b816720648e499dd5856518bf9f7b274c5a9d227ac041faf"
+    },
+    {
+      "path": "tl/chinese/melonia.rpyc",
+      "size": 11652,
+      "sha256": "c71c47c6ada2dceba55345037ccf7fdf4df2609a3a4615c3800f980875813124"
+    },
+    {
+      "path": "tl/chinese/mia_s_bedroom.rpyc",
+      "size": 1650,
+      "sha256": "079db4a0efb59c089b60528c3be4853dec4ab80a8d514d28f3df86a372faa7d6"
+    },
+    {
+      "path": "tl/chinese/miahouse_lock_check.rpyc",
+      "size": 2990,
+      "sha256": "881a749a12c8a170abd021d75176b75753e2a9b4686d737c01ff665e5dd28832"
+    },
+    {
+      "path": "tl/chinese/milking_minigame.rpyc",
+      "size": 22420,
+      "sha256": "a3bed91d30b1c09b86321f1f498b6cac7d3f27b35dd202ff3d3fbda9a9dae9f4"
+    },
+    {
+      "path": "tl/chinese/minigame.rpyc",
+      "size": 8206,
+      "sha256": "7eea8c145c43b45122a6afb5e1c0ef0f1197d65bb7710a5104abc20054757802"
+    },
+    {
+      "path": "tl/chinese/mixing_minigame.rpyc",
+      "size": 3790,
+      "sha256": "31b299e2d71535d2a2b91e8be3a8115d584860db1028d2eb7c26433167719b38"
+    },
+    {
+      "path": "tl/chinese/mom_s_bedroom.rpyc",
+      "size": 2926,
+      "sha256": "c569571c1a3a8b96f053883bae16c71a3928cbc9a630189158db5f6bd0693f33"
+    },
+    {
+      "path": "tl/chinese/mrs_smith_s_office.rpyc",
+      "size": 14808,
+      "sha256": "a0b0923ccb41414610df7a3216b1957789c41ab815df3df40a614aefc891cbad"
+    },
+    {
+      "path": "tl/chinese/nad01.rpyc",
+      "size": 46998,
+      "sha256": "2e19b493b1aeb85c12bf16ac2cf759863d3ffbb3de0d8c794ed7d4c21a11d63f"
+    },
+    {
+      "path": "tl/chinese/nadya.rpyc",
+      "size": 11068,
+      "sha256": "7beea7e49fa4a7eedae2405cca19d7aca9356a0124a6dc7c7016815765e5824d"
+    },
+    {
+      "path": "tl/chinese/ode01.rpyc",
+      "size": 27008,
+      "sha256": "5d3ca801dd8f89b29dce04fba83ef4fbce16cfd411d104ca9f36eca57c4ab97e"
+    },
+    {
+      "path": "tl/chinese/ode02.rpyc",
+      "size": 76112,
+      "sha256": "c677ed2068108ae215f307f8300fa31cada5aac5eafc2e643a5f9b7037993046"
+    },
+    {
+      "path": "tl/chinese/odette_button_dialogues.rpyc",
+      "size": 130952,
+      "sha256": "9968b8d3382fbe01589eda8c7e86b33233a70d3d2b70e92751f80e5accf5ede7"
+    },
+    {
+      "path": "tl/chinese/odette_pregnancy_button_dialogues.rpyc",
+      "size": 26122,
+      "sha256": "4e42f707c0e3924b12ea18a163da59c236f28b15d87ceb1716383d04b3567a1f"
+    },
+    {
+      "path": "tl/chinese/office.rpyc",
+      "size": 64618,
+      "sha256": "78578f580d0d9f0c98f2840f5f8b5e37223119dfdce3c1b778beab77126e323c"
+    },
+    {
+      "path": "tl/chinese/office_button_dialogues.rpyc",
+      "size": 21122,
+      "sha256": "6b2d3c04c76850cd70a005531ff8ee45b4388df152cdcec6d7a030f7c623d1f4"
+    },
+    {
+      "path": "tl/chinese/okita_keypad.rpyc",
+      "size": 2508,
+      "sha256": "ee97469319e17ba030538e26d4fb5dbdaddb9fd7cfd2b1d9d152e5e8011ad789"
+    },
+    {
+      "path": "tl/chinese/orc_minigame.rpyc",
+      "size": 16532,
+      "sha256": "ea2dd8c65d05f04b738d2bc9374e598cdf94655d0b46ac015fa859800fe826eb"
+    },
+    {
+      "path": "tl/chinese/order.rpyc",
+      "size": 6836,
+      "sha256": "4bddb4443fadcb42cc68cb3b839323cf25c7dc34a7ce788db161f6fdaaf5c35c"
+    },
+    {
+      "path": "tl/chinese/outside.rpyc",
+      "size": 20650,
+      "sha256": "bfe9c290cf956b4b1e7da0989992e41289c6b617dd20767cd3e6ba086f73e50b"
+    },
+    {
+      "path": "tl/chinese/pa_announcements.rpyc",
+      "size": 20068,
+      "sha256": "b136af8c4bea19003c9c374f1f5e2aab7443ed8c4268066e30b1088832913199"
+    },
+    {
+      "path": "tl/chinese/paizuri.rpyc",
+      "size": 6284,
+      "sha256": "e035b651e2b65b49239df66e83fdddc91d2f742bbe9c14458baee4a908bdfb45"
+    },
+    {
+      "path": "tl/chinese/park.rpyc",
+      "size": 76762,
+      "sha256": "f2cd984174552973f775544f1aea722951e586a70c1bd511fbb7d7b4fa62ade9"
+    },
+    {
+      "path": "tl/chinese/park_lock_check.rpyc",
+      "size": 1456,
+      "sha256": "2b2a56039e74a198bef06afdf51e9b16b5405c31992c669550c8895e7eb6266a"
+    },
+    {
+      "path": "tl/chinese/peep_hole.rpyc",
+      "size": 7396,
+      "sha256": "aabef086a3a2448f4cc596771431e917148d0bb66d036b3c5359e533dbb3d9de"
+    },
+    {
+      "path": "tl/chinese/phone.rpyc",
+      "size": 2430,
+      "sha256": "f9a4af8dc993ccce175ed7da6ae72fdba7933b2a9c093d8063ac6cae79bf1c9d"
+    },
+    {
+      "path": "tl/chinese/pink.rpyc",
+      "size": 13404,
+      "sha256": "3b40a11949d66811868c2afee0e0974182c40b4f0eb8d0889b74318b13f10b36"
+    },
+    {
+      "path": "tl/chinese/pink_button_dialogues.rpyc",
+      "size": 5418,
+      "sha256": "ea4d167bf5680e175a2250839e87901b76019a150acc84ecefa4b381af6d4558"
+    },
+    {
+      "path": "tl/chinese/pizzeria.rpyc",
+      "size": 97862,
+      "sha256": "60a221becd8bec4e732063a94172994b45f50e989495695d611883228daf6b09"
+    },
+    {
+      "path": "tl/chinese/pizzeria_lock_check.rpyc",
+      "size": 7802,
+      "sha256": "7b06ea635e0c57d8f6d2cb7913476c4c17341fb7bde69348dfe468de9d4090a6"
+    },
+    {
+      "path": "tl/chinese/poker.rpyc",
+      "size": 27928,
+      "sha256": "3c457ddf14f12fd8271292193a6684444114ea3cadd1725f61d6c026ef94c79a"
+    },
+    {
+      "path": "tl/chinese/police_lock_check.rpyc",
+      "size": 2428,
+      "sha256": "abc252d67ea1d1010cf8e9279dd3e6b86833cd94571312fbf67c6e83311a4d91"
+    },
+    {
+      "path": "tl/chinese/pool_sex_scene.rpyc",
+      "size": 11398,
+      "sha256": "c2b3e059e997d406542bd4a8bf1301ffa68916b7fbb547f7d98751bab6d1e15e"
+    },
+    {
+      "path": "tl/chinese/pregnancy.rpyc",
+      "size": 177098,
+      "sha256": "345a48c85da8e1f2bbdc5c8b3b9133a6be2e6b4fabc319b2a79ac8e4a92b465c"
+    },
+    {
+      "path": "tl/chinese/pregnancy_texts.rpyc",
+      "size": 10624,
+      "sha256": "3c44587c74efb5a6d8b45858664f6e38aaa3bf2c908101551c9d10ad2c31df0b"
+    },
+    {
+      "path": "tl/chinese/pregnant.rpyc",
+      "size": 158284,
+      "sha256": "dd6217ec659e8b3ff0427296002f59e956486a7465866580a60a5d41e9ad3148"
+    },
+    {
+      "path": "tl/chinese/pushups_minigame.rpyc",
+      "size": 11980,
+      "sha256": "a8fe8f400eb1e8a1f90e23d8241742dfdb2db7c5e6dde80762901ff5da861ea9"
+    },
+    {
+      "path": "tl/chinese/recap.rpyc",
+      "size": 9756,
+      "sha256": "b13802a96600719832c1611af9357f25dc047c3130a3d080596af1a2ad8d6cb7"
+    },
+    {
+      "path": "tl/chinese/recovery.rpyc",
+      "size": 26952,
+      "sha256": "461295650b0e5a99aec72b99c5eb45337171d53cde35f4bc05aa6af4430ba309"
+    },
+    {
+      "path": "tl/chinese/right_dialogues.rpyc",
+      "size": 12750,
+      "sha256": "1aa71eb04f0b23c7fb9dbd9ebdb058abc5070d31776cd5b14390a446d9e6d82d"
+    },
+    {
+      "path": "tl/chinese/right_hallway_button_dialogues.rpyc",
+      "size": 19926,
+      "sha256": "2c27b08f5e2b9569c8c4361ef006354356f80fd76cfebb3b5503400353ea3ca0"
+    },
+    {
+      "path": "tl/chinese/rooftop_dialogues.rpyc",
+      "size": 1794,
+      "sha256": "6c3ef4f3163fdb02b592d2cc37af9ddf891e6a3bcad21eca0114ec8c5059718d"
+    },
+    {
+      "path": "tl/chinese/roxXX.rpyc",
+      "size": 35560,
+      "sha256": "c02f184f1d4e5555b693514a72b95ea3f88d7b52d8df5b3ccabf5c04980e60b1"
+    },
+    {
+      "path": "tl/chinese/rump_lock_check.rpyc",
+      "size": 9850,
+      "sha256": "446f4fcf361e073ae6f8f83fd8e3f4a8b6985d2cc9bf588a2707d927535260b4"
+    },
+    {
+      "path": "tl/chinese/school_front_dialogues.rpyc",
+      "size": 15802,
+      "sha256": "cef9ca2b23ed9163416b673764a930b5e3ab9097b1713d5b7be5df146b831803"
+    },
+    {
+      "path": "tl/chinese/school_hall.rpyc",
+      "size": 2660,
+      "sha256": "84d8e7b22a3c12e83c0d00a9b22512efb5a1fee203a2205e8cecf31362f16614"
+    },
+    {
+      "path": "tl/chinese/school_hall_dialogues.rpyc",
+      "size": 283706,
+      "sha256": "5aa20b38ed213cea704726d8b04b26a6ca81384844982ac51e8f4da3fe8d4c9b"
+    },
+    {
+      "path": "tl/chinese/school_lock_check.rpyc",
+      "size": 6496,
+      "sha256": "f2966b81333bddb7044c93f2c2d3b15f42ca5ba671bd148b2cbc80d5390b047e"
+    },
+    {
+      "path": "tl/chinese/science_minigame.rpyc",
+      "size": 7408,
+      "sha256": "28007b520e007a173037511a6b4f1863385794c9f43f5079f02c0c6ef6450867"
+    },
+    {
+      "path": "tl/chinese/screens.rpyc",
+      "size": 1720,
+      "sha256": "24daa394458f40c13cb29f744292efbfde011c9dfe22777ef8272a4e36ebf455"
+    },
+    {
+      "path": "tl/chinese/sex.rpyc",
+      "size": 78244,
+      "sha256": "a4e54f5fe5b4fbc401fc8ba69194d474bde14a02b9db86fae99b16dbe067aa67"
+    },
+    {
+      "path": "tl/chinese/sex_anal.rpyc",
+      "size": 7750,
+      "sha256": "60bdbeb948b22c6dd98159aef0509a8faaf17d3239ca833889dc35a56b3459ae"
+    },
+    {
+      "path": "tl/chinese/sex_apt.rpyc",
+      "size": 8036,
+      "sha256": "eecb103540f94f48530ed4c37c9e0a5773094d00861abc8444dabc0785448487"
+    },
+    {
+      "path": "tl/chinese/sex_bedroom.rpyc",
+      "size": 45384,
+      "sha256": "6129bbeb21c255935d6444741f3bc439e16d26b7e4202960594dd65ae33301da"
+    },
+    {
+      "path": "tl/chinese/sex_cargo.rpyc",
+      "size": 15900,
+      "sha256": "be0f39e512839cfd2ed91443b29d15aa210e615d547fd6fdb7099c8f474703bb"
+    },
+    {
+      "path": "tl/chinese/sex_chair.rpyc",
+      "size": 10984,
+      "sha256": "4a1a9e7ab57f0d3273eac8d323d75254ed2972b0bc00b88b704630c935cd317b"
+    },
+    {
+      "path": "tl/chinese/sex_counter.rpyc",
+      "size": 15406,
+      "sha256": "40363d04ae8776326c42de624df190f4e56d3fe3ab6f98f5330b7797d852488f"
+    },
+    {
+      "path": "tl/chinese/sex_crypt.rpyc",
+      "size": 10742,
+      "sha256": "9bce1bb0b113709ba2ebb913ace602d2201fc24ae2ebf2d7a60366d5480c1d75"
+    },
+    {
+      "path": "tl/chinese/sex_desk.rpyc",
+      "size": 15668,
+      "sha256": "7b9530339995f3dbc5d837f12c63604b216538ce5cc666a6b43ea0923a77c585"
+    },
+    {
+      "path": "tl/chinese/sex_floor.rpyc",
+      "size": 10774,
+      "sha256": "96e503e4db733f68afc9258ed6efcf602c1f01f774c5c911cdba7d3f25844e6c"
+    },
+    {
+      "path": "tl/chinese/sex_floor_anal.rpyc",
+      "size": 15634,
+      "sha256": "903eb99f504f7217e20301d46df556c772102c99ceb80604a508c661fd45c6fc"
+    },
+    {
+      "path": "tl/chinese/sex_kitchen.rpyc",
+      "size": 10002,
+      "sha256": "8993ceafd3dd1cf47fc0898e8915e6c58339ff183510a2285f954168b8706325"
+    },
+    {
+      "path": "tl/chinese/sex_loft.rpyc",
+      "size": 8568,
+      "sha256": "5b89bc5175078beeba292afe7c1fa5410d2beebf4b90292d1ea251a5d6ec6a11"
+    },
+    {
+      "path": "tl/chinese/sex_lounge.rpyc",
+      "size": 14338,
+      "sha256": "f5c04042274dd295b317188d3a9248fe37ba1a028620816c721607411bb40509"
+    },
+    {
+      "path": "tl/chinese/sex_milk.rpyc",
+      "size": 10210,
+      "sha256": "e72030382a3b4800968bf7d3c746ea7fa4660258c714739e06cf93583a6b5bbf"
+    },
+    {
+      "path": "tl/chinese/sex_office.rpyc",
+      "size": 24682,
+      "sha256": "36b457a8636d400e5fb4f524b39d4503732c504eb6c4127ca7217b2da18beb76"
+    },
+    {
+      "path": "tl/chinese/sex_pregnant.rpyc",
+      "size": 12830,
+      "sha256": "746713a29841ace82b3b0292417e40c8da075081129de75e58558375037ce858"
+    },
+    {
+      "path": "tl/chinese/sex_scenes.rpyc",
+      "size": 443724,
+      "sha256": "9feee5c4da68609b991540d81eb57d3f6d2e258bb43ab69d86a8834500581f9c"
+    },
+    {
+      "path": "tl/chinese/sex_shower.rpyc",
+      "size": 10962,
+      "sha256": "8df68d926ed0795a767bb3be78fc8879be2434e62a64e1399b2f2867db436fa3"
+    },
+    {
+      "path": "tl/chinese/sex_stairs.rpyc",
+      "size": 9070,
+      "sha256": "348335e485e07aef39745b30748106c3b0d10dd8fba72826f74f2e9f6138114d"
+    },
+    {
+      "path": "tl/chinese/sex_storage.rpyc",
+      "size": 55072,
+      "sha256": "4450ca35e731d9605ee0d70a569db82303fc4224651d84fdbcbe10ef8c267430"
+    },
+    {
+      "path": "tl/chinese/sex_storage_tony.rpyc",
+      "size": 26948,
+      "sha256": "5cfb1fc554b7d1486ecc9a850d87f24c2ef9a142e5df0c95fc95f373732eaca8"
+    },
+    {
+      "path": "tl/chinese/sex_trailer.rpyc",
+      "size": 8914,
+      "sha256": "ff39e027ff42c8805f3894ae09d44722930320de782c1b97d058087f875182fa"
+    },
+    {
+      "path": "tl/chinese/sex_wake.rpyc",
+      "size": 15308,
+      "sha256": "65d044733edca5990a115d3f999ed54149e0875a16ee9cd92666b08ae5e70ad4"
+    },
+    {
+      "path": "tl/chinese/sex_yard.rpyc",
+      "size": 15296,
+      "sha256": "a6e840bb54143f94663b0907267e222f0df9b29dc8139a03122b718704691ded"
+    },
+    {
+      "path": "tl/chinese/shed.rpyc",
+      "size": 4516,
+      "sha256": "ae9f5300c81bd3a97f9477a1536c2b58c3e3f9e88d302e5df8cfa6d772456968"
+    },
+    {
+      "path": "tl/chinese/shooting_minigame.rpyc",
+      "size": 26626,
+      "sha256": "8b3e5060a124a1189b241e3de536494d5db3d697b7dcb7f4adaa513f6454dbcd"
+    },
+    {
+      "path": "tl/chinese/showroom.rpyc",
+      "size": 65486,
+      "sha256": "2b028422387dcc222b9c0d78efcd7da08903ef60a2bde4c36bbd6401fd99036f"
+    },
+    {
+      "path": "tl/chinese/sis_bedroom.rpyc",
+      "size": 5538,
+      "sha256": "be0ecfbb6d0e96884d29334b053dac1a2ab36f7dab96b939795c8e5b69901a02"
+    },
+    {
+      "path": "tl/chinese/sleep.rpyc",
+      "size": 1448,
+      "sha256": "410ec35ba972902c6d1468c34cf3d929c72364f4da08e9904ca50b41c16ef0d8"
+    },
+    {
+      "path": "tl/chinese/solo_peephole.rpyc",
+      "size": 7956,
+      "sha256": "8898c720e3cc3acddd08a3853876c0fe63b75adb4720a3d31399766d047ac394"
+    },
+    {
+      "path": "tl/chinese/spin_bottle_minigame.rpyc",
+      "size": 17718,
+      "sha256": "714c35ed2353a4d0484446a52d80fb1f30fd81af979c9a24409b5b93a81d83fa"
+    },
+    {
+      "path": "tl/chinese/spin_bottle_minigame_becca.rpyc",
+      "size": 21906,
+      "sha256": "81ca35b427eec6a36be793d1adabecb643020ee9da1b49fc0b6c9b0067861326"
+    },
+    {
+      "path": "tl/chinese/spin_bottle_minigame_mc.rpyc",
+      "size": 33798,
+      "sha256": "c8e3f3cba8e68b6f79cd0e39783e7b096aa5639fdbeaff9b336f652b8911e5fa"
+    },
+    {
+      "path": "tl/chinese/spin_bottle_minigame_missy.rpyc",
+      "size": 24390,
+      "sha256": "6cc031efdc9a38518d940b294c385a92026d1bbeff9c12b7bb0ac9e4ad997b1b"
+    },
+    {
+      "path": "tl/chinese/spin_bottle_minigame_roxxy.rpyc",
+      "size": 8562,
+      "sha256": "c4e531d3e1581c47d7845e4a29a3569a8a3a03fafbae88aaf52c9d33c3244225"
+    },
+    {
+      "path": "tl/chinese/statue.rpyc",
+      "size": 10640,
+      "sha256": "d129cd2faf7555c702efa572e7318743dc999c78fa078a8ef0f9a3bec5a1ad7e"
+    },
+    {
+      "path": "tl/chinese/sve01.rpyc",
+      "size": 31220,
+      "sha256": "2de6bc9ab09be6294fe2862b7bc7f7b5d4f6bf4d271e7ede3b0a23c2e323d7d9"
+    },
+    {
+      "path": "tl/chinese/tattoo_parlor_lock.rpyc",
+      "size": 11760,
+      "sha256": "2d1959cd4c1c6e5e780725ab04cd497ee16902e36bfc4ab1ad510c7378075a81"
+    },
+    {
+      "path": "tl/chinese/teachers_lounge_button_dialogues.rpyc",
+      "size": 7514,
+      "sha256": "26f85733bec97468d6bcf072ec55a922ed26027563bc038a10f75db133de622f"
+    },
+    {
+      "path": "tl/chinese/telescope_backyard.rpyc",
+      "size": 3338,
+      "sha256": "a8acf3fe4c6aea714a1c77e0dd6f6780c9f1ad7dd559d7d8e88055105bb3795f"
+    },
+    {
+      "path": "tl/chinese/telescope_erik.rpyc",
+      "size": 3462,
+      "sha256": "1accb4b5ec01f9324d4a9e948885e5c424bd0238617471018f4044d810c23a42"
+    },
+    {
+      "path": "tl/chinese/telescope_helen.rpyc",
+      "size": 2664,
+      "sha256": "89b83b6a1eef9767ec6f178995fbd981ac8faf3f722044b2a3093dc0ad40e974"
+    },
+    {
+      "path": "tl/chinese/telescope_mia.rpyc",
+      "size": 23352,
+      "sha256": "4b804bcaadfeaee370c099075d3d7bec029c7c110318be7683943553c5302cf8"
+    },
+    {
+      "path": "tl/chinese/telescope_mrsj.rpyc",
+      "size": 15712,
+      "sha256": "43aa9825be58d5d25fb7d93f3eb88ff0d01a7565c63275d1f80a4be8a448e6df"
+    },
+    {
+      "path": "tl/chinese/tent_dialogues.rpyc",
+      "size": 69850,
+      "sha256": "9c2ee56cbe22ba0467b7e811f4f01fe80b839a6ba9cd6ab844f2dbfb604dcb5f"
+    },
+    {
+      "path": "tl/chinese/terry.rpyc",
+      "size": 4568,
+      "sha256": "86896b12c520baff5db52c0640125fa53883353ed2752e24fc908cb40558d68f"
+    },
+    {
+      "path": "tl/chinese/test.rpyc",
+      "size": 996,
+      "sha256": "a234575c1b7bc553fa3022f36bd56675e07588f32c566bf9f7a43931a4c19f41"
+    },
+    {
+      "path": "tl/chinese/tin01.rpyc",
+      "size": 6766,
+      "sha256": "97687ab7fd9f6fd0df0991b9858201c66149eaa6c9372495665a1a55b383f371"
+    },
+    {
+      "path": "tl/chinese/tin02.rpyc",
+      "size": 9756,
+      "sha256": "c8668171d183c21c9b6fe3eda0ced8247e33b230b8c78098d505a04a0f7e5e5e"
+    },
+    {
+      "path": "tl/chinese/tina.rpyc",
+      "size": 8750,
+      "sha256": "00a04313e1e7949f176e490c9e179caa6afa9b38eb4181b8b064158b8fdc0307"
+    },
+    {
+      "path": "tl/chinese/tina_lock_check.rpyc",
+      "size": 2152,
+      "sha256": "02c41088908402b8035ab7ee9b5780760a5ea9f484931121f9fe3db9e6abc6e5"
+    },
+    {
+      "path": "tl/chinese/trailer_lock_check.rpyc",
+      "size": 6656,
+      "sha256": "81a68b3e28701dac3e9e17c801487d4be71be4f6d8902d70ea55b332c3cef789"
+    },
+    {
+      "path": "tl/chinese/treehouse_lock_check.rpyc",
+      "size": 1640,
+      "sha256": "2064dd61657710556517e8426942df3875ebd7789087c8943cc75d2bdf27899b"
+    },
+    {
+      "path": "tl/chinese/truck_cowgirl.rpyc",
+      "size": 30924,
+      "sha256": "e4a00746cd5400bf9d6fa2913a3305cd786705af4a8638d4920154a7e29e570f"
+    },
+    {
+      "path": "tl/chinese/vera.rpyc",
+      "size": 7282,
+      "sha256": "2e9bc7e8badfa814772e4900122741ce613b99c46c26b873ba0c0f98d2dde707"
+    },
+    {
+      "path": "tl/chinese/warehouse_lock_check.rpyc",
+      "size": 6364,
+      "sha256": "c53e3737bf9738aa12f18eec772c3d3364412529368c3368c4fe8abb9829972b"
+    },
+    {
+      "path": "tl/chinese/watch_movie.rpyc",
+      "size": 9406,
+      "sha256": "2d6b83749e2e14417ed0bce19596f5aecf1dc4240ce6dd490713ced0d2e82e38"
+    },
+    {
+      "path": "tl/chinese/weight_lifting_minigame.rpyc",
+      "size": 8580,
+      "sha256": "7eb0897b6dce40d89283efec058f3ae94adf347f216c762da117beb5872c4b65"
+    },
+    {
+      "path": "tl/chinese/yacht.rpyc",
+      "size": 17506,
+      "sha256": "c34485a280becfe13d8043793078710e6f3f1325d12741a8c209cb78dbb2958a"
+    },
+    {
+      "path": "tl/chinese/yoga.rpyc",
+      "size": 15390,
+      "sha256": "9b126f6268ea7af3eaafe90eeee0a859c6167b6dab5004935307eb70a69a8893"
+    },
+    {
+      "path": "tl/chinese/yoy01.rpyc",
+      "size": 23360,
+      "sha256": "d9e22e25052a1bd0c8dc0ccea0bbca0128d288f7fa892bce92665f8ef131eaa6"
+    },
+    {
+      "path": "tl/chinese/zz_ui_strings.rpyc",
+      "size": 193798,
+      "sha256": "d8edb217a4efe27d994810ae32bfab15ab2dbd91c936f1230c1a783d451020fa"
+    },
+    {
+      "path": "tl/chinese/zz_zh_font.rpyc",
+      "size": 1462,
+      "sha256": "e82d4c29897f4f823930ba5172f931be8d74c4be6c913c9ef05a93f37323e784"
+    },
+    {
+      "path": "tl/chinese/zz_zz_extra_strings.rpyc",
+      "size": 27220,
+      "sha256": "b01d5f42938550f1d8aa9e72eb30eca814e6809d9ea18a860ed37daeab1b02d5"
+    },
+    {
+      "path": "zz_zh_language.rpyc",
+      "size": 820,
+      "sha256": "984ae187e005bcda40e55c30db159b4f52ed55864b728cc91dcd5a39bfa98ada"
+    },
+    {
+      "path": "zz_zh_runtime.rpyc",
+      "size": 4836,
+      "sha256": "8c267d4961f443779ca6345084172baed7bafa377436fbfef38313f28efdfe36"
+    }
+  ]
+}
