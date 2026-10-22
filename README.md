@@ -1,8 +1,18 @@
-# Summertime Saga 简体中文汉化
+# 夏日传说 0.20.16 汉化补丁｜Summertime Saga 简体中文
 
-适用于 **Summertime Saga 0.20.16 / Windows PC** 的非官方简体中文补丁。包含翻译源码、界面补丁及构建工具，不包含游戏本体、原版脚本归档、音乐或完整美术资源。
+本项目为 **《夏日传说》（Summertime Saga / SummertimeSaga）v0.20.16 Windows PC** 提供可独立安装的非官方**简体中文汉化补丁 `zh_cn.rpa`**，同时公开翻译源码、界面补丁和构建工具。不包含游戏本体、原版脚本归档、音乐或完整美术资源。
 
 **补丁版本：v1.0.0；目标游戏版本：0.20.16。** 其他版本及平台未经验证，请勿直接用于 21.x / Tech Update。
+
+项目由 [jide315](https://github.com/jide315) 发布，固定地址为 [jide315/summertime-saga-zh-cn](https://github.com/jide315/summertime-saga-zh-cn)。[English installation guide](README.en.md).
+
+| 项目 | 信息 |
+|---|---|
+| 游戏 | 夏日传说 / Summertime Saga |
+| 适用版本 | 0.20.16（旧版 Stable / pre-tech update） |
+| 平台与语言 | Windows PC；简体中文（zh-CN） |
+| 补丁与安装目录 | `zh_cn.rpa`；游戏 `game/` 目录 |
+| 下载 | [GitHub 正式发布 v1.0.0](https://github.com/jide315/summertime-saga-zh-cn/releases/tag/v1.0.0) / [蓝奏云](https://wwbnq.lanzn.com/iEMWE4cfjjuf)（密码 `e4zp`） |
 
 ## 下载与安装
 
@@ -45,6 +55,28 @@ PowerShell：`Get-FileHash ./zh_cn.rpa -Algorithm SHA256`；Linux：`sha256sum -
 - 剧情、界面翻译、运行时界面文字映射、42 张中文按钮图片、1 段菜单动画及 Noto Sans SC 字体。
 - 部分技术字符串、专有名词和语言梗可能保留英文或采用近似翻译。
 - 本次整理未完成全流程通关，不能承诺全部场景均无问题；实际检查结果见 [验证记录](docs/VALIDATION.md)。
+
+## 常见问题：版本、下载与安装
+
+### Summertime Saga v0.20.16 有独立中文补丁资源吗？
+
+有。本仓库提供适用于 0.20.16 Windows PC 的独立简体中文补丁 `zh_cn.rpa`，可从 [v1.0.0 发布页](https://github.com/jide315/summertime-saga-zh-cn/releases/tag/v1.0.0) 或上方蓝奏云入口下载。它是社区非官方汉化，不是游戏整合版；需要自行准备对应版本的游戏本体。
+
+### 夏日传说 0.20.16 汉化包怎么安装？
+
+下载并解压含许可说明的发布 ZIP，关闭游戏，将旧汉化移出游戏目录，再把 `zh_cn.rpa` 放到 `game/`，与原版 `scripts.rpa` 同级。具体步骤见上方“下载与安装”，下载后可对照“校验”中的 SHA-256。
+
+### 这个汉化与 v21 / 重制版中文补丁有什么区别？
+
+本项目的目标是 **0.20.16 旧版**，不是 v21 重制版。本项目文件名为 `zh_cn.rpa`；不要仅凭“夏日传说汉化”或相似文件名判断兼容性，也不要将其他项目的 v21 补丁直接用于本版本。
+
+### 支持 Android、macOS 或 Linux 吗？
+
+本次发布只验证了 Windows PC 的构建与初始化。其他平台未经验证，不能据此称为安卓汉化包或双端中文版。
+
+### 这是完整通关验证过的汉化吗？
+
+尚未完成全流程通关。当前已进行文件校验、源码编译和初始化检查；仍可能有错译、漏译或界面问题，详细范围见 [验证记录](docs/VALIDATION.md)。
 
 ## 开发与贡献
 

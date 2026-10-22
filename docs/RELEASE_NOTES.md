@@ -1,11 +1,13 @@
-# v1.0.0 · Summertime Saga 0.20.16 简体中文补丁
+# 夏日传说 / Summertime Saga 0.20.16 简体中文汉化补丁 v1.0.0
 
-仅适用于 0.20.16 / Windows PC，其他版本及平台未经验证。
+这是《夏日传说》（Summertime Saga / SummertimeSaga）**v0.20.16 Windows PC 独立简体中文汉化补丁**，安装文件名为 **`zh_cn.rpa`**。仅含汉化补丁及配套说明，不包含游戏本体。目标是 0.20.16 旧版，不能直接用于 v21 / Tech Update；其他平台未经验证。
+
+项目主页：[jide315/summertime-saga-zh-cn](https://github.com/jide315/summertime-saga-zh-cn) · [中文安装与版本 FAQ](https://github.com/jide315/summertime-saga-zh-cn#readme) · [English guide](https://github.com/jide315/summertime-saga-zh-cn/blob/main/README.en.md)
 
 ## 下载
 
 - 国内下载：[蓝奏云](https://wwbnq.lanzn.com/iEMWE4cfjjuf)，密码：`e4zp`。文件名：`SummertimeSaga-0.20.16-zh_CN.zip`，约 24.63 MB，包含补丁、安装说明、校验和与必要许可。
-- 推荐下载 `summertime-saga-0.20.16-zh-cn-v1.0.0.zip`，包含补丁、安装说明及完整许可。
+- GitHub 直接下载：[summertime-saga-0.20.16-zh-cn-v1.0.0.zip](https://github.com/jide315/summertime-saga-zh-cn/releases/download/v1.0.0/summertime-saga-0.20.16-zh-cn-v1.0.0.zip)，包含补丁、安装说明及完整许可。
 - 单独下载 `zh_cn.rpa` 时，请同时获取配套许可 ZIP，转载时保留署名和许可。
 - GitHub 自动生成的 Source code ZIP 是开发源码快照；普通玩家优先选择上述发布 ZIP。
 
